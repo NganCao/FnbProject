@@ -1,0 +1,19 @@
+{
+  "promotion": {
+    "name": "discount campaign for specific category by money",
+    "promotionTypeId": 2,
+    "startDate": "2024-04-24T00:00:00+07:00",
+    "endDate": "2024-04-30T23:59:59+07:00",
+    "productCategoryIds": [
+      "8ffd43c7-babc-471d-d110-08dc4e07419f"
+    ],
+    "isPercentDiscount": false,
+    "maximumDiscountAmount": 15000,
+    "isSpecificBranch": false,
+    "isMinimumPurchaseAmount": false,
+    "isIncludedTopping": false,
+    "isApplyAllCategories": false,
+    "isApplyAllProducts": false,
+    "productIds": []
+  }
+}

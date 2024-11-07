@@ -1,0 +1,17 @@
+{
+  "suppliers": [
+    {
+      "name": "Bình Thạnh",
+      "code": "BT1",
+      "address": {
+        "countryName": "Viet Nam",
+        "address": "Nguyễn Văn Thương",
+        "city": "Hồ Chí Minh",
+        "district": "Bình Thạnh",
+        "ward": "12"
+      },
+      "phoneNumber": "234234234234",
+      "email": "supplier1@mailinator.com"
+    }
+  ]
+}

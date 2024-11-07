@@ -1,0 +1,51 @@
+{
+    "storeDetail": {
+        "id": "aadc881c-b6c5-40a3-3395-08dc215aa354",
+        "domainName": "https://autostore.stag.beecowdeal.vn",
+        "branchId": "3d36fd3c-81af-4aa2-f075-08dc4716c8b5",
+        "branchName": "Chi nhánh Cộng Hòa",
+        "title": "AutoStore1",
+        "code": "592",
+        "logo": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/06062024174247.jpg",
+        "googleApiKey": "AIzaSyDJBwzrHdHae_2zYXPCAaWtQjFFc7x_3Cc",
+        "rating": 0.0,
+        "distance": 1074.0,
+        "phoneNumber": "0365771592",
+        "branchAddress": "312 Đường Cộng Hòa,  13,  Tân Bình, Hồ Chí Minh",
+        "currency": {
+            "id": "27ccb730-866c-4c9e-8ea2-17ce71a83226",
+            "currencyName": "Dong",
+            "code": "VND",
+            "symbol": "đ"
+        },
+        "loyaltyPointConfiguration": {
+            "storeId": "aadc881c-b6c5-40a3-3395-08dc215aa354",
+            "isActivated": true,
+            "isExpiryDate": true,
+            "expiryDate": "2024-12-31T16:59:59.999",
+            "earningPointExchangeValue": 1000.00,
+            "redeemPointExchangeValue": 1000.00,
+            "isExpiryMembershipDate": false,
+            "id": "52bc1115-a2e9-4792-e22b-08dc4f09818d",
+            "lastSavedUser": "35a718b4-20ea-4861-0064-08dc215aa354",
+            "lastSavedTime": "2024-03-29T04:33:18.8616481",
+            "createdUser": "35a718b4-20ea-4861-0064-08dc215aa354",
+            "createdTime": "2024-03-28T09:29:02.6657332",
+            "isDeleted": false
+        },
+        "isAllowReserveTable": true,
+        "numberOfDaysAdvanceReservations": 1,
+        "cookingTime": 15
+    },
+    "storeConfig": {
+        "id": "6032cc80-cbf2-4ef4-8bc2-5b43e3f02009",
+        "name": "Color Group Default",
+        "titleColor": "rgba(2,111,48,1)",
+        "textColor": "rgba(0,0,0,1)",
+        "buttonBackgroundColor": "rgba(247,147,30,1)",
+        "buttonTextColor": "rgba(255,255,255,1)",
+        "buttonBorderColor": "transparent",
+        "isDefault": true
+    },
+    "isLoyaltyCustomize": true
+}

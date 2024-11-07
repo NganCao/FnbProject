@@ -1,0 +1,23 @@
+{
+    "isSuccess": true,
+    "data": {
+        "token": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6IjU5ODdiNTY5LTZhOTgtNDNiMy1mNWE0LTA4ZGM0ZmEzZGJjMCIsIkFDQ09VTlRfSUQiOiI1OTg3YjU2OS02YTk4LTQzYjMtZjVhNC0wOGRjNGZhM2RiYzAiLCJGVUxMX05BTUUiOiJXaWxscyAiLCJBQ0NPVU5UX1RZUEUiOiIwIiwiU1RPUkVfSUQiOiJhYWRjODgxYy1iNmM1LTQwYTMtMzM5NS0wOGRjMjE1YWEzNTQiLCJQSE9ORV9OVU1CRVIiOiIwOTgxODc4NDg2IiwiQ09VTlRSWV9JRCI6IjQwYWE3YjRmLTZlYmMtNDMzNS1iNjBhLWM0MGRmODQ1OTBhNiIsIkNPVU5UUllfQ09ERSI6IlZOIiwiU1RPUkVfVFlQRSI6IlZJRVROQU0iLCJleHAiOjIwMzU5NDE0MDAsImlzcyI6IkdvRm9vZEJldmVyYWdlLkFQSSIsImF1ZCI6IkdvRm9vZEJldmVyYWdlIn0.ItLs47CwGH0yVZlH2IazRahJLzNPM3hpbZ5BqRYIYvI",
+        "customerInfo": {
+            "id": "5987b569-6a98-43b3-f5a4-08dc4fa3dbc0",
+            "fullName": "Wills ",
+            "phoneNumber": "0981878486",
+            "phoneCode": "84",
+            "email": "",
+            "no": 0,
+            "countryCode": "VN",
+            "countryId": "40aa7b4f-6ebc-4335-b60a-c40df84590a6",
+            "firstName": "Wills",
+            "lastName": "",
+            "code": 1365,
+            "gender": 1,
+            "isOTPVerified": false,
+            "customerId": "6300db6b-faf4-4798-7d70-08dc4fa3dbc1"
+        },
+        "accountHasPassword": true
+    }
+}

@@ -1,0 +1,134 @@
+{
+  "product": {
+    "id": "b74f0d34-66d3-40d5-a711-08dc62b6920a",
+    "name": "Product + topping + options",
+    "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/22042024172526.jpg",
+    "statusId": 1,
+    "unit": {
+      "id": "02b2a05b-40b2-4b70-b15b-08dc4e0649f4",
+      "name": "cái",
+      "code": 647
+    },
+    "tax": {
+      "id": "541ba9ad-d158-4fc1-9832-08dc5ec17999",
+      "taxTypeId": 0,
+      "name": "Tax for wills",
+      "percentage": 5.00,
+      "formatName": "Tax for wills (5%)"
+    },
+    "isTopping": false,
+    "productCategoryId": "8ffd43c7-babc-471d-d110-08dc4e07419f",
+    "productCategoryName": "A category for wills",
+    "productPrices": [
+      {
+        "isPriceBelongsCombo": false,
+        "id": "9e3eb498-640e-4661-a6b5-08dc62b6920a",
+        "productId": "b74f0d34-66d3-40d5-a711-08dc62b6920a",
+        "code": 10164,
+        "barcode": "P000010164",
+        "priceValue": 20000.00,
+        "isDeleted": false,
+        "isApplyPromotion": false,
+        "originalPrice": 0.0,
+        "position": 0,
+        "createdTime": "2024-04-22T10:25:45.3517727"
+      }
+    ],
+    "productInventoryData": [
+      {
+        "priceId": "00000000-0000-0000-0000-000000000000",
+        "listProductPriceMaterial": [
+          {
+            "priceId": "00000000-0000-0000-0000-000000000000",
+            "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+            "material": "bột cafe bao dùng k hết",
+            "quantity": 9999.00,
+            "unit": "gam",
+            "unitCost": 1000.00,
+            "cost": 9999000.0000
+          }
+        ],
+        "totalCost": 9999000.0000
+      }
+    ],
+    "listOptionIds": [
+      "d5129061-4d30-4235-7298-08dc59f78011",
+      "9e7a735b-17d1-4aeb-6a3a-08dc59f784f4"
+    ],
+    "options": [
+      {
+        "id": "d5129061-4d30-4235-7298-08dc59f78011",
+        "name": "Đá viên",
+        "optionLevel": [
+          {
+            "id": "c21260ca-1693-4d99-829f-08dc59f78011",
+            "name": "Ít",
+            "isSetDefault": true,
+            "quota": 20.00
+          },
+          {
+            "id": "48c80a32-3e54-4866-973d-08dc59f78011",
+            "name": "Vừa",
+            "isSetDefault": false,
+            "quota": 40.00
+          },
+          {
+            "id": "b73ee5b4-7a92-4a4d-975d-08dc59f78011",
+            "name": "Nhiều",
+            "isSetDefault": false,
+            "quota": 60.00
+          }
+        ]
+      },
+      {
+        "id": "9e7a735b-17d1-4aeb-6a3a-08dc59f784f4",
+        "name": "Cafe",
+        "optionLevel": [
+          {
+            "id": "2ac46eef-d8b1-4ac1-6a76-08dc59f784f4",
+            "name": "Ít",
+            "isSetDefault": true,
+            "quota": 20.00
+          },
+          {
+            "id": "ae9a53e2-9734-4f8b-6ab3-08dc59f784f4",
+            "name": "Vừa",
+            "isSetDefault": false,
+            "quota": 40.00
+          },
+          {
+            "id": "9b0952a1-ba8f-4c6b-6ab9-08dc59f784f4",
+            "name": "Nhiều",
+            "isSetDefault": false,
+            "quota": 60.00
+          }
+        ]
+      }
+    ],
+    "listPlatformIds": [
+      "6c626154-5065-616c-7466-6f7200000002",
+      "6c626154-5065-616c-7466-6f7200000004",
+      "6c626154-5065-616c-7466-6f7200000005"
+    ],
+    "platforms": [
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000002",
+        "name": "POS",
+        "statusId": 1
+      },
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000004",
+        "name": "Store Web",
+        "statusId": 1
+      },
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000005",
+        "name": "Store App",
+        "statusId": 1
+      }
+    ],
+    "productToppingIds": [],
+    "productToppings": []
+  },
+  "isBelongsActiveCombo": false
+}

@@ -1,0 +1,42 @@
+{
+  "options": [
+    {
+      "name": "Đá viên",
+      "materialName": "Đá viên",
+      "optionLevels": [
+        {
+          "name": "Ít",
+          "setDefault": true,
+          "quota": "20"
+        },
+        {
+          "name": "Vừa",
+          "quota": "40"
+        },
+        {
+          "name": "Nhiều",
+          "quota": "60"
+        }
+      ]
+    },
+    {
+      "name": "Cafe",
+      "materialName": "bột cafe bao dùng k hết",
+      "optionLevels": [
+        {
+          "name": "Ít",
+          "setDefault": true,
+          "quota": "20"
+        },
+        {
+          "name": "Vừa",
+          "quota": "40"
+        },
+        {
+          "name": "Nhiều",
+          "quota": "60"
+        }
+      ]
+    }
+  ]
+}

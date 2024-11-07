@@ -1,0 +1,49 @@
+{
+    "branchesByCustomerAddress": [
+        {
+            "distance": 513.8981231629662,
+            "lat": 10.7637336,
+            "lng": 106.6689799,
+            "branchAddress": "11 Đường Vĩnh Viễn, Phường 4,  Quận 10, Hồ Chí Minh",
+            "branchName": "Cheese Coffee - Chi nhánh Vĩnh Viễn",
+            "branchId": "1d89fb2f-fc98-4edd-a510-08dbf60ea7ff",
+            "createdTime": "2023-12-06T03:51:41.1805061"
+        },
+        {
+            "distance": 1862.1985398402373,
+            "lat": 10.7546247,
+            "lng": 106.6602073,
+            "branchAddress": "307 Đ. Hồng Bàng,  phường 11, Phường 11,  Quận 5, Hồ Chí Minh",
+            "branchName": "Cheese coffee - Chi nhánh Hậu Giang",
+            "branchId": "1c44069a-0887-4246-b6cb-08dbee5dafe6",
+            "createdTime": "2023-11-26T08:57:15.4948582"
+        },
+        {
+            "distance": 2383.136944255767,
+            "lat": 10.7721343,
+            "lng": 106.6527941,
+            "branchAddress": "155 Nguyễn Thị Nhỏ, Phường 15,  Quận 11, Hồ Chí Minh",
+            "branchName": "Cheese coffee - Nguyễn Thị Nhỏ",
+            "branchId": "016ba3c8-6771-4ade-edd3-08dbf6167762",
+            "createdTime": "2023-12-06T04:47:35.5884453"
+        },
+        {
+            "distance": 6059.103576710649,
+            "lat": 10.7529932,
+            "lng": 106.7275422,
+            "branchAddress": "30 Đường Nguyễn Văn Linh, Phường Tân Thuận Tây,  Quận 7, Hồ Chí Minh",
+            "branchName": "Cheese coffee - Chi nhánh Cộng Hòa",
+            "branchId": "61b31513-67bc-4a60-c4e5-08dbf6f544bd",
+            "createdTime": "2023-12-07T07:22:28.5252527"
+        },
+        {
+            "distance": 6705.305931702348,
+            "lat": 10.8191345,
+            "lng": 106.7009696,
+            "branchAddress": "329 Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh",
+            "branchName": "Cheese coffee - Chi nhánh Nơ Trang Long",
+            "branchId": "dfd44314-1c7f-420d-6733-08dbefc06f62",
+            "createdTime": "2023-11-28T03:16:38.4752933"
+        }
+    ]
+}

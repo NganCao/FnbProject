@@ -1,0 +1,52 @@
+{
+  "storeDetail": {
+    "id": "67de51aa-fbb9-4df7-9afc-80784cbf2c04",
+    "domainName": "https://phuclongcualin.qa.beecowdeal.vn",
+    "branchId": "3f223f9e-1901-48e4-af31-b663c452f6fd",
+    "branchName": "Phú Nhuận - sáng",
+    "title": "Phúc Long của Lin ",
+    "code": "98",
+    "logo": "https://s3-sgn09.fptcloud.com/gofnb-qa/devimages/06102023103319.jpg",
+    "googleApiKey": "AIzaSyDJBwzrHdHae_2zYXPCAaWtQjFFc7x_3Cc",
+    "rating": 0.0,
+    "distance": 0.0,
+    "phoneNumber": "0339294798",
+    "branchAddress": "84a/42 Trần Hữu Trang,  10,  Phú Nhuận, Hồ Chí Minh",
+    "currency": {
+      "id": "27ccb730-866c-4c9e-8ea2-17ce71a83226",
+      "currencyName": "Dong",
+      "code": "VND",
+      "symbol": "đ"
+    },
+    "loyaltyPointConfiguration": {
+      "storeId": "67de51aa-fbb9-4df7-9afc-80784cbf2c04",
+      "isActivated": true,
+      "isExpiryDate": true,
+      "expiryDate": "2023-08-29T16:59:59.999",
+      "earningPointExchangeValue": 10.00,
+      "redeemPointExchangeValue": 1000.00,
+      "isExpiryMembershipDate": true,
+      "expiryMembershipDate": "2023-08-29T16:59:59.999",
+      "id": "d4ff3274-3d87-4418-88e9-982d64c557b2",
+      "lastSavedUser": "2e017c09-3991-44c2-839a-12d61a26fd61",
+      "lastSavedTime": "2024-01-22T04:35:53.8984312",
+      "createdUser": "2e017c09-3991-44c2-839a-12d61a26fd61",
+      "createdTime": "2022-09-21T06:20:11.2784102",
+      "isDeleted": false
+    },
+    "isAllowReserveTable": true,
+    "numberOfDaysAdvanceReservations": 5,
+    "cookingTime": 15
+  },
+  "storeConfig": {
+    "id": "6032cc80-cbf2-4ef4-8bc2-5b43e3f02009",
+    "name": "Color Group Default",
+    "titleColor": "rgba(2,111,48,1)",
+    "textColor": "rgba(0,31,255,1)",
+    "buttonBackgroundColor": "rgba(255,137,0,1)",
+    "buttonTextColor": "rgba(184,181,181,1)",
+    "buttonBorderColor": "transparent",
+    "isDefault": true
+  },
+  "isLoyaltyCustomize": true
+}

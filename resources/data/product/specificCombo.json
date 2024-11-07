@@ -1,0 +1,20 @@
+{
+  "specificCombo": [
+    {
+      "name": "2411ptest combo1",
+      "startDate": "24/01/2024",
+      "endDate": "25/01/2024",
+      "image": "resources/image/combos/combo.png",
+      "description": "",
+      "branchNames": [
+        "Bình Thạnh", "Nhà Bí"
+      ],
+      "sellingPrice": "35000",
+      "comboProductNames": [
+        "Cafe sữa Auto971",
+        "Phin Đen Đá Auto971 (S)"
+      ],
+      "isShowAllBranches": true
+    }
+  ]
+}

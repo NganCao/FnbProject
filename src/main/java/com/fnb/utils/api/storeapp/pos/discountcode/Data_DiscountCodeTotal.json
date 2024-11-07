@@ -1,0 +1,32 @@
+{
+  "discountCode" : {
+    "code" : "GCF7BG",
+    "isLimitNumberCouponUse" : true,
+    "endDate" : "2025-06-26 10:58:43",
+    "isApplyAllProducts" : false,
+    "isAllBranches" : true,
+    "discountCodeTypeId" : 0,
+    "isIncludedTopping" : true,
+    "serviceTypeIds" : [ 0, 1, 2, 4 ],
+    "maximumLimitCouponUse" : 5,
+    "percentNumber" : 10,
+    "listCustomerId" : [ ],
+    "isAllCustomers" : true,
+    "startTime" : "2024-06-26T10:59:43.255Z",
+    "platformIds" : [ "6c626154-5065-616c-7466-6f7200000002", "6c626154-5065-616c-7466-6f7200000004", "6c626154-5065-616c-7466-6f7200000005" ],
+    "termsAndCondition" : "Total discount on order",
+    "isApplyAllCategories" : false,
+    "isLimitOneTimeUse" : true,
+    "isPercentDiscount" : true,
+    "maximumDiscountAmount" : 10000,
+    "minimumPurchaseAmount" : 10000.0,
+    "productIds" : [ ],
+    "name" : "Discount code for total bill by % 571",
+    "listCustomerSegmentId" : [ ],
+    "endTime" : "2025-06-26T10:58:43.255Z",
+    "branchIds" : [ "b707d08d-4889-4ee0-49de-08dc4716d7f3", "ce3a3215-ab42-415f-0343-08dc215b374b", "3d36fd3c-81af-4aa2-f075-08dc4716c8b5", "d8aec5df-31bb-4349-f27e-08dc4716afa7", "430e53bd-e51f-49a7-954d-08dc215c5c59" ],
+    "totalCustomerSegment" : 0,
+    "isMinimumPurchaseAmount" : true,
+    "startDate" : "2024-06-26 10:59:43"
+  }
+}

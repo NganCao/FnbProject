@@ -1,0 +1,24 @@
+{
+  "promotion": {
+    "name": "test discount campain by api 1 1",
+    "promotionTypeId": 1,
+    "isPercentDiscount": true,
+    "percentNumber": 10,
+    "maximumDiscountAmount": 10000,
+    "startDate": "2024-04-24T00:00:00+07:00",
+    "endDate": "2024-04-30T23:59:59+07:00",
+    "productPriceIds": [
+      "9e3eb498-640e-4661-a6b5-08dc62b6920a",
+      "630ffda7-282e-4d60-5538-08dc62b39648"
+    ],
+    "isSpecificBranch": false,
+    "isMinimumPurchaseAmount": false,
+    "isIncludedTopping": false,
+    "isApplyAllCategories": false,
+    "isApplyAllProducts": false,
+    "productIds": [
+      "b74f0d34-66d3-40d5-a711-08dc62b6920a",
+      "49f54519-6c72-46c2-55af-08dc62b39648"
+    ]
+  }
+}

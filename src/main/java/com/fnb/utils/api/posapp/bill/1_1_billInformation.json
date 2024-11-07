@@ -1,0 +1,43 @@
+{
+  "customer": "La POP Chi Chi",
+  "customer phone": "942741230",
+  "customer rank name": "Fill decimal in Discount and max discount field",
+  "customer rank discount": "12%",
+  "products": [
+    {
+      "name": "Vịt thơm - all",
+      "size": "M",
+      "quantity": 1,
+      "price": 82000.0,
+      "option": "Đá viên (Vừa)",
+      "topping": "Thạch topping",
+      "topping quantity": 1,
+      "product total": 82000.0
+    },
+    {
+      "name": "Vịt thơm - size",
+      "size": "S",
+      "quantity": 1,
+      "price": 35000.0,
+      "option": "",
+      "topping": "",
+      "topping quantity": 0,
+      "product total": 35000.0
+    },
+    {
+      "name": "Mê Sữa Đá",
+      "size": "",
+      "quantity": 1,
+      "price": 39000.0,
+      "option": "",
+      "topping": "",
+      "topping quantity": 0,
+      "product total": 39000.0
+    }
+  ],
+  "total items": "3",
+  "subtotal": "156,000",
+  "discount": "155,125",
+  "payment method": "Cash",
+  "total": "875"
+}

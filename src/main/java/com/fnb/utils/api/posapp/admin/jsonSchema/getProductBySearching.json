@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "no": 1,
+            "id": "ad94181f-994a-4a5e-000e-08dca4806522",
+            "name": "Mê Sữa Đá",
+            "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/15072024104336.jpg",
+            "description": "Vietnamese White Coffee",
+            "status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "isActive": true,
+            "productPrices": [
+                {
+                    "id": "82964738-c73d-4260-ffa3-08dca4806521",
+                    "productId": "ad94181f-994a-4a5e-000e-08dca4806522",
+                    "code": 12760,
+                    "barcode": "P000012760",
+                    "priceName": "",
+                    "priceValue": 39000.00,
+                    "isDeleted": false,
+                    "isApplyPromotion": false,
+                    "originalPrice": 0.0,
+                    "position": 0,
+                    "createdTime": "2024-07-15T03:44:13.9289268",
+                    "product": {
+                        "id": "ad94181f-994a-4a5e-000e-08dca4806522",
+                        "productCategoryId": "00000000-0000-0000-0000-000000000000",
+                        "name": "Mê Sữa Đá",
+                        "description": "Vietnamese White Coffee",
+                        "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/15072024104336.jpg",
+                        "productPrices": [
+                            
+                        ],
+                        "isTopping": false
+                    }
+                }
+            ],
+            "channels": [
+                {
+                    "id": "6c626154-4365-6168-6e6e-656c00000000",
+                    "name": "In-store"
+                }
+            ],
+            "platforms": [
+                {
+                    "id": "6c626154-5065-616c-7466-6f7200000002",
+                    "name": "POS",
+                    "statusId": 1
+                },
+                {
+                    "id": "6c626154-5065-616c-7466-6f7200000004",
+                    "name": "Store Web",
+                    "statusId": 1
+                },
+                {
+                    "id": "6c626154-5065-616c-7466-6f7200000005",
+                    "name": "Store App",
+                    "statusId": 1
+                }
+            ]
+        }
+    ],
+    "pageNumber": 0,
+    "total": 1
+}

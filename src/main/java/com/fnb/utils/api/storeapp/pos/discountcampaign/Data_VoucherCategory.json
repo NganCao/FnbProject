@@ -1,0 +1,21 @@
+{
+  "promotion" : {
+    "isPercentDiscount" : true,
+    "promotionTypeId" : 2,
+    "endDate" : "2025-06-26T10:58:49.023",
+    "isApplyAllProducts" : false,
+    "isIncludedTopping" : true,
+    "productCategoryIds" : [ "8ffd43c7-babc-471d-d110-08dc4e07419f" ],
+    "maximumDiscountAmount" : 30000,
+    "minimumPurchaseAmount" : 1000.0,
+    "productIds" : [ ],
+    "voucherTypeId" : 2,
+    "percentNumber" : 30,
+    "name" : "Voucher for specific category by % 859",
+    "termsAndCondition" : "Voucher for category",
+    "isSpecificBranch" : false,
+    "isMinimumPurchaseAmount" : false,
+    "startDate" : "2024-06-26T10:58:49.023",
+    "isApplyAllCategories" : false
+  }
+}

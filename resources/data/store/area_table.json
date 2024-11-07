@@ -1,0 +1,46 @@
+{
+  "areas": [
+    {
+      "branch": "Bình Thạnh",
+      "areaName": "Tầng 3 971",
+      "tables": [
+        {
+          "tableName": "Table1",
+          "seat": "2"
+        },
+        {
+          "tableName": "Table2",
+          "seat": "2"
+        }
+      ]
+    },
+    {
+      "branch": "Bình Thạnh",
+      "areaName": "Tầng 2 971",
+      "tables": [
+        {
+          "tableName": "Table1",
+          "seat": "2"
+        },
+        {
+          "tableName": "Table2",
+          "seat": "2"
+        }
+      ]
+    },
+    {
+      "branch": "Go Food And Beverage",
+      "areaName": "Tầng 1 971",
+      "tables": [
+        {
+          "tableName": "Table1",
+          "seat": "2"
+        },
+        {
+          "tableName": "Table2",
+          "seat": "2"
+        }
+      ]
+    }
+  ]
+}

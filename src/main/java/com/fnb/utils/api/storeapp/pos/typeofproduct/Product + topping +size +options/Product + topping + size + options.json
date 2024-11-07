@@ -1,0 +1,217 @@
+{
+  "product": {
+    "id": "fe8d9993-c506-4219-7887-08dc62b6fa03",
+    "name": "Product + topping + size + options",
+    "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/22042024172828.png",
+    "statusId": 1,
+    "unit": {
+      "id": "02b2a05b-40b2-4b70-b15b-08dc4e0649f4",
+      "name": "cái",
+      "code": 647
+    },
+    "tax": {
+      "id": "541ba9ad-d158-4fc1-9832-08dc5ec17999",
+      "taxTypeId": 0,
+      "name": "Tax for wills",
+      "percentage": 5.00,
+      "formatName": "Tax for wills (5%)"
+    },
+    "isTopping": false,
+    "productCategoryId": "8ffd43c7-babc-471d-d110-08dc4e07419f",
+    "productCategoryName": "A category for wills",
+    "productPrices": [
+      {
+        "isPriceBelongsCombo": false,
+        "id": "ec623b71-09a8-4a7e-77c8-08dc62b6fa03",
+        "productId": "fe8d9993-c506-4219-7887-08dc62b6fa03",
+        "code": 10170,
+        "barcode": "P000010170",
+        "priceName": "size S",
+        "priceValue": 30000.00,
+        "isDeleted": false,
+        "isApplyPromotion": false,
+        "originalPrice": 0.0,
+        "position": 0,
+        "createdTime": "2024-04-22T10:28:39.7878717"
+      },
+      {
+        "isPriceBelongsCombo": false,
+        "id": "cab153f3-66da-4325-7865-08dc62b6fa03",
+        "productId": "fe8d9993-c506-4219-7887-08dc62b6fa03",
+        "code": 10169,
+        "barcode": "P000010169",
+        "priceName": "size M",
+        "priceValue": 35000.00,
+        "isDeleted": false,
+        "isApplyPromotion": false,
+        "originalPrice": 0.0,
+        "position": 1,
+        "createdTime": "2024-04-22T10:28:39.7878738"
+      },
+      {
+        "isPriceBelongsCombo": false,
+        "id": "b09ac89a-86ee-47e4-786c-08dc62b6fa03",
+        "productId": "fe8d9993-c506-4219-7887-08dc62b6fa03",
+        "code": 10168,
+        "barcode": "P000010168",
+        "priceName": "size L",
+        "priceValue": 40000.00,
+        "isDeleted": false,
+        "isApplyPromotion": false,
+        "originalPrice": 0.0,
+        "position": 2,
+        "createdTime": "2024-04-22T10:28:39.7878749"
+      }
+    ],
+    "productInventoryData": [
+      {
+        "priceId": "00000000-0000-0000-0000-000000000000",
+        "priceName": "size S",
+        "listProductPriceMaterial": [
+          {
+            "priceId": "00000000-0000-0000-0000-000000000000",
+            "priceName": "size S",
+            "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+            "material": "bột cafe bao dùng k hết",
+            "quantity": 9999.00,
+            "unit": "gam",
+            "unitCost": 1000.00,
+            "cost": 9999000.0000
+          }
+        ],
+        "totalCost": 9999000.0000
+      },
+      {
+        "priceId": "00000000-0000-0000-0000-000000000000",
+        "priceName": "size M",
+        "listProductPriceMaterial": [
+          {
+            "priceId": "00000000-0000-0000-0000-000000000000",
+            "priceName": "size M",
+            "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+            "material": "bột cafe bao dùng k hết",
+            "quantity": 9999.00,
+            "unit": "gam",
+            "unitCost": 1000.00,
+            "cost": 9999000.0000
+          }
+        ],
+        "totalCost": 9999000.0000
+      },
+      {
+        "priceId": "00000000-0000-0000-0000-000000000000",
+        "priceName": "size L",
+        "listProductPriceMaterial": [
+          {
+            "priceId": "00000000-0000-0000-0000-000000000000",
+            "priceName": "size L",
+            "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+            "material": "bột cafe bao dùng k hết",
+            "quantity": 9999.00,
+            "unit": "gam",
+            "unitCost": 1000.00,
+            "cost": 9999000.0000
+          }
+        ],
+        "totalCost": 9999000.0000
+      }
+    ],
+    "listOptionIds": [
+      "d5129061-4d30-4235-7298-08dc59f78011",
+      "9e7a735b-17d1-4aeb-6a3a-08dc59f784f4"
+    ],
+    "options": [
+      {
+        "id": "d5129061-4d30-4235-7298-08dc59f78011",
+        "name": "Đá viên",
+        "optionLevel": [
+          {
+            "id": "c21260ca-1693-4d99-829f-08dc59f78011",
+            "name": "Ít",
+            "isSetDefault": true,
+            "quota": 20.00
+          },
+          {
+            "id": "48c80a32-3e54-4866-973d-08dc59f78011",
+            "name": "Vừa",
+            "isSetDefault": false,
+            "quota": 40.00
+          },
+          {
+            "id": "b73ee5b4-7a92-4a4d-975d-08dc59f78011",
+            "name": "Nhiều",
+            "isSetDefault": false,
+            "quota": 60.00
+          }
+        ]
+      },
+      {
+        "id": "9e7a735b-17d1-4aeb-6a3a-08dc59f784f4",
+        "name": "Cafe",
+        "optionLevel": [
+          {
+            "id": "2ac46eef-d8b1-4ac1-6a76-08dc59f784f4",
+            "name": "Ít",
+            "isSetDefault": true,
+            "quota": 20.00
+          },
+          {
+            "id": "ae9a53e2-9734-4f8b-6ab3-08dc59f784f4",
+            "name": "Vừa",
+            "isSetDefault": false,
+            "quota": 40.00
+          },
+          {
+            "id": "9b0952a1-ba8f-4c6b-6ab9-08dc59f784f4",
+            "name": "Nhiều",
+            "isSetDefault": false,
+            "quota": 60.00
+          }
+        ]
+      }
+    ],
+    "listPlatformIds": [
+      "6c626154-5065-616c-7466-6f7200000002",
+      "6c626154-5065-616c-7466-6f7200000004",
+      "6c626154-5065-616c-7466-6f7200000005"
+    ],
+    "platforms": [
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000002",
+        "name": "POS",
+        "statusId": 1
+      },
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000004",
+        "name": "Store Web",
+        "statusId": 1
+      },
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000005",
+        "name": "Store App",
+        "statusId": 1
+      }
+    ],
+    "productToppingIds": [
+      "30439bbc-c645-4c4e-6e07-08dc62b41c03",
+      "cdb270b3-e5d7-4374-0f39-08dc62b43076"
+    ],
+    "productToppings": [
+      {
+        "id": "30439bbc-c645-4c4e-6e07-08dc62b41c03",
+        "name": "Topping",
+        "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/22042024170742.jpg",
+        "price": 0.0,
+        "quantity": 0
+      },
+      {
+        "id": "cdb270b3-e5d7-4374-0f39-08dc62b43076",
+        "name": "Topping 2",
+        "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/22042024170823.png",
+        "price": 0.0,
+        "quantity": 0
+      }
+    ]
+  },
+  "isBelongsActiveCombo": false
+}

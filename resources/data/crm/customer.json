@@ -1,0 +1,20 @@
+{
+  "customers": [
+    {
+      "firstName": "Phú971",
+      "lastName": "Nguyễn",
+      "address": {
+        "country": "Viet Nam",
+        "address": "đường Phan Bội Châu",
+        "city": "Bình Dương",
+        "district": "Dĩ An",
+        "ward": "Dĩ An"
+      },
+      "phone": "365771971",
+      "email": "wwphuztr@mailinator971.com",
+      "birthDay": "09/01/2000",
+      "gender": "Male",
+      "tags": []
+    }
+  ]
+}

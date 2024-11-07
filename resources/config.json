@@ -1,0 +1,180 @@
+{
+  "admin": {
+    "dev": "https://qa-admin.beecowdeal.vn/",
+    "stag": "https://stag-admin.beecowdeal.vn/",
+    "prod": "https://fnb.gosell.vn/",
+    "dev_api": "https://api.qa33-admin.beecowdeal.vn/api",
+    "stag_api": "https://api.stag-admin.beecowdeal.vn/api",
+    "env": "stag",
+    "timeout": 10,
+    "browser": "chrome",
+    "path": {
+      "screenshot": "screenshot"
+    },
+    "route": {
+      "login": "login",
+      "home": "home",
+      "registerAccount": "register-account",
+      "productManagement": "product-management",
+      "materialManagement": "inventory/material",
+      "productCreate": "product/create-new",
+      "materialCreate": "material/add-new",
+      "optionManagement": "product/options",
+      "productCategoryCreate": "product/product-category",
+      "comboCreate": "combo/create-new",
+      "comboManagement": "combo",
+      "feeAndTaxManagement": "store/fee-tax",
+      "staffManagement": "staff",
+      "accessRestricted": "page-not-permitted",
+      "reportRevenue": "report/revenue",
+      "reportTransaction": "report/transaction",
+      "reportCustomer": "report/customer",
+      "inventoryHistory": "inventory/inventory-history",
+      "materialCategory": "inventory/material-category",
+      "supplierManagement": "inventory/supplier",
+      "purchaseOrderManagement": "inventory/transfer-control?tabActive=view-by-purchase-order",
+      "createPurchaseOrder": "inventory/purchase-order/create-new",
+      "transferMaterialManagement": "inventory/transfer-control?tabActive=view-by-transfer-material",
+      "createTransferMaterial": "inventory/transfer-material/create-new",
+      "createCustomer": "customer/create-new",
+      "areaTableManagement": "store/area-table",
+      "customerManagement": "customer/management",
+      "customerSegmentManagement": "customer/segment",
+      "memberShip": "membership/management",
+      "pointConfiguration": "customer/point/configuration",
+      "createMembership": "membership/create",
+      "createCustomerSegment": "customer/segment/create-new",
+      "promotionManagement": "store/promotion",
+      "createDiscountCampaign": "store/discount/create-new",
+      "createFlashSaleCampaign": "store/flashSale/create-new",
+      "createDiscountCode": "store/discountCode/create-new",
+      "qrOrderManagement": "marketing/qr-order",
+      "createQrOrder": "qr-order/create-new",
+      "emailCampaignManagement": "marketing/email-campaign",
+      "createEmailCampaign": "email-campaign/create-new",
+      "notificationCampaignManagement": "marketing/notification-campaign",
+      "createNotificationCampaign": "marketing/notification-campaign/create-notification-campaign",
+      "transferControl": "/inventory/transfer-control"
+    },
+    "web_driver_path": {
+      "linux": {
+        "chrome": "/usr/local/bin/chromedriver-linux64/chromedriver"
+      },
+      "win": {
+        "chrome": "src/main/java/com/fnb/web/webdriver/windown/chrome/chromedriver.exe"
+      }
+    }
+  },
+  "store": {
+    "theme1": {
+      "dev": "https://phuclongcualin.qa.beecowdeal.vn/",
+      "stag": "https://hysstore.stag.beecowdeal.vn/",
+      "prod": "https://cloudstore.gofnb.gosell.vn/"
+    },
+    "theme2": {
+      "dev": "https://candystore.qa.beecowdeal.vn/",
+      "stag": "https://donutstore.stag.beecowdeal.vn/",
+      "prod": "https://sushiii.gofnb.gosell.vn/"
+    },
+    "env": "stag",
+    "timeout": 20,
+    "browser": "chrome",
+    "path": {
+      "screenshot": "screenshot"
+    },
+    "route": {
+      "login": "login",
+      "home": "home",
+      "registerAccount": "register-account",
+      "productManagement": "product-list",
+      "checkoutPage": "checkout"
+    },
+    "web_driver_path": {
+      "linux": {
+        "chrome": "/usr/local/bin/chromedriver-linux64/chromedriver"
+      },
+      "win": {
+        "chrome": "src/main/java/com/fnb/web/webdriver/windown/chrome/chromedriver.exe"
+      }
+    }
+  },
+  "pos": {
+    "dev": "https://qa33-pos.beecowdeal.vn/",
+    "stag": "https://stag-pos.beecowdeal.vn/",
+    "prod": "https://fnb.gosell.vn/",
+    "dev_api": "https://api.qa32-admin.beecowdeal.vn/api",
+    "stag_api": "https://api.stag-admin.beecowdeal.vn/api",
+    "env": "stag",
+    "timeout": 30,
+    "browser": "chrome",
+    "path": {
+      "screenshot": "screenshot"
+    },
+    "route": {
+      "login": "login",
+      "home": "home",
+      "registerAccount": "login",
+      "productManagement": "product-management"
+    },
+    "web_driver_path": {
+      "linux": {
+        "chrome": "/usr/local/bin/chromedriver-linux64/chromedriver"
+      },
+      "win": {
+        "chrome": "src/main/java/com/fnb/web/webdriver/windown/chrome/chromedriver.exe"
+      }
+    }
+  },
+  "Android": {
+    "capabilities": {
+      "platformName": "Android",
+      "platformVersion": "11",
+      "deviceName": "sdk_gphone_x86",
+      "udid": "emulator-5554",
+      "automationName": "UiAutomator2"
+    },
+    "configuration": {
+      "port": 4723,
+      "remoteHost": "127.0.0.1",
+      "remotePath": "/wd/hub",
+      "appium_node_path": "C:\\Program Files\\nodejs\\node.exe",
+      "appium_js_path": "C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js"
+    },
+    "timeout": 30,
+    "path": {
+      "screenshot": "screenshot"
+    },
+    "env": "stag",
+    "prod": {
+      "LinStore": {
+        "appPackage": "com.gofnb.posapplication",
+        "appActivity": "com.gofnb.posapplication.MainActivity"
+      },
+      "KemStore": {
+        "appPackage": "com.gofnb.posapplication",
+        "appActivity": "com.gofnb.posapplication.MainActivity"
+      }
+    },
+    "stag": {
+      "LinStore": {
+        "appPackage": "com.gofnb.posapplication",
+        "appActivity": "com.gofnb.posapplication.MainActivity"
+      },
+      "KemStore": {
+        "appPackage": "com.gofnb.posapplication",
+        "appActivity": "com.gofnb.posapplication.MainActivity"
+      }
+    },
+    "dev": {
+      "LinStore": {
+        "appPackage": "com.gofnb.posapplication",
+        "appActivity": "com.gofnb.posapplication.MainActivity"
+      },
+      "KemStore": {
+        "appPackage": "com.gofnb.posapplication",
+        "appActivity": "com.gofnb.posapplication.MainActivity"
+      }
+    }
+  },
+  "ios": {}
+}

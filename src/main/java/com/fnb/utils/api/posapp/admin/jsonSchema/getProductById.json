@@ -1,0 +1,83 @@
+{
+    "product": {
+        "id": "30439bbc-c645-4c4e-6e07-08dc62b41c03",
+        "name": "Topping",
+        "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/22042024170742.jpg",
+        "statusId": 1,
+        "unit": {
+            "id": "02b2a05b-40b2-4b70-b15b-08dc4e0649f4",
+            "name": "cái",
+            "code": 647
+        },
+        "isTopping": true,
+        "isPrintStamp": true,
+        "isIncludedAllToppings": false,
+        "productPrices": [
+            {
+                "isPriceBelongsCombo": false,
+                "id": "099f871b-3303-4af6-6d12-08dc62b41c03",
+                "productId": "30439bbc-c645-4c4e-6e07-08dc62b41c03",
+                "code": 10153,
+                "barcode": "P000010153",
+                "priceName": "",
+                "priceValue": 10000.00,
+                "isDeleted": false,
+                "isApplyPromotion": false,
+                "originalPrice": 0.0,
+                "position": 0,
+                "createdTime": "2024-04-22T10:08:08.3400687"
+            }
+        ],
+        "productInventoryData": [
+            {
+                "priceId": "00000000-0000-0000-0000-000000000000",
+                "priceName": "",
+                "listProductPriceMaterial": [
+                    {
+                        "priceId": "00000000-0000-0000-0000-000000000000",
+                        "priceName": "",
+                        "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+                        "material": "bột cafe bao dùng k hết",
+                        "quantity": 9999.00,
+                        "unit": "gam",
+                        "unitCost": 1000.00,
+                        "unitConversion": [
+                            
+                        ],
+                        "cost": 9999000.0000
+                    }
+                ],
+                "totalCost": 9999000.0000
+            }
+        ],
+        "listOptionIds": [
+            
+        ],
+        "options": [
+            
+        ],
+        "listPlatformIds": [
+            "6c626154-5065-616c-7466-6f7200000002",
+            "6c626154-5065-616c-7466-6f7200000004",
+            "6c626154-5065-616c-7466-6f7200000005"
+        ],
+        "platforms": [
+            {
+                "id": "6c626154-5065-616c-7466-6f7200000002",
+                "name": "POS",
+                "statusId": 1
+            },
+            {
+                "id": "6c626154-5065-616c-7466-6f7200000004",
+                "name": "Store Web",
+                "statusId": 1
+            },
+            {
+                "id": "6c626154-5065-616c-7466-6f7200000005",
+                "name": "Store App",
+                "statusId": 1
+            }
+        ]
+    },
+    "isBelongsActiveCombo": false
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "address": "Nguyễn Văn Thương, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Viet Nam",
+        "phoneNumber": "0365771592",
+        "website": "",
+        "rate": 0,
+        "isMainStore": false,
+        "storeId": "aadc881c-b6c5-40a3-3395-08dc215aa354",
+        "storeBranchId": "ce3a3215-ab42-415f-0343-08dc215b374b",
+        "storeName": "Bình Thạnh",
+        "latitude": 10.8012831,
+        "longitude": 106.7187638,
+        "distance": 0.0,
+        "isFirstCreatedBranch": true
+    },
+    {
+        "address": "84a Trần Hữu Trang, Phường 1, Quận Phú Nhuận, Hồ Chí Minh, Viet Nam",
+        "phoneNumber": "0365771592",
+        "website": "",
+        "rate": 0,
+        "isMainStore": false,
+        "storeId": "aadc881c-b6c5-40a3-3395-08dc215aa354",
+        "storeBranchId": "430e53bd-e51f-49a7-954d-08dc215c5c59",
+        "storeName": "Go Food And Beverage",
+        "latitude": 10.7938428,
+        "longitude": 106.6726129,
+        "distance": 0.0,
+        "isFirstCreatedBranch": false
+    },
+    {
+        "address": "106 Đường Hậu Giang, Phường 6,  Quận 6, Hồ Chí Minh, Viet Nam",
+        "phoneNumber": "1215645646",
+        "website": "",
+        "rate": 0,
+        "isMainStore": false,
+        "storeId": "aadc881c-b6c5-40a3-3395-08dc215aa354",
+        "storeBranchId": "d8aec5df-31bb-4349-f27e-08dc4716afa7",
+        "storeName": "Chi nhánh Hậu Giang",
+        "latitude": 10.7498507,
+        "longitude": 106.6457657,
+        "distance": 0.0,
+        "isFirstCreatedBranch": false
+    },
+    {
+        "address": "312 Đường Cộng Hòa, Phường 13, Quận Tân Bình, Hồ Chí Minh, Viet Nam",
+        "phoneNumber": "326455416",
+        "website": "",
+        "rate": 0,
+        "isMainStore": false,
+        "storeId": "aadc881c-b6c5-40a3-3395-08dc215aa354",
+        "storeBranchId": "3d36fd3c-81af-4aa2-f075-08dc4716c8b5",
+        "storeName": "Chi nhánh Cộng Hòa",
+        "latitude": 10.8020599,
+        "longitude": 106.6474118,
+        "distance": 0.0,
+        "isFirstCreatedBranch": false
+    },
+    {
+        "address": "32 Đường Hoàng Diệu, Phường 13,  Quận 4, Hồ Chí Minh, Viet Nam",
+        "phoneNumber": "3564564552",
+        "website": "",
+        "rate": 0,
+        "isMainStore": false,
+        "storeId": "aadc881c-b6c5-40a3-3395-08dc215aa354",
+        "storeBranchId": "b707d08d-4889-4ee0-49de-08dc4716d7f3",
+        "storeName": "Automation",
+        "latitude": 10.7632895,
+        "longitude": 106.7041264,
+        "distance": 0.0,
+        "isFirstCreatedBranch": false
+    }
+]

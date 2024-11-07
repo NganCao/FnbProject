@@ -1,0 +1,18 @@
+{
+  "promotion" : {
+    "isPercentDiscount" : true,
+    "promotionTypeId" : 0,
+    "endDate" : "2025-06-26T10:58:49.023",
+    "isApplyAllProducts" : false,
+    "isIncludedTopping" : true,
+    "maximumDiscountAmount" : 10000,
+    "productIds" : [ ],
+    "VoucherTypeId" : 0,
+    "percentNumber" : 10,
+    "name" : "Voucher for total bill by % 178",
+    "isSpecificBranch" : false,
+    "isMinimumPurchaseAmount" : false,
+    "startDate" : "2024-06-26T10:58:49.023",
+    "isApplyAllCategories" : false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "material" : [ {
+    "image" : "resources/image/materials/caphephasanauto.jpg",
+    "unit" : "gram",
+    "minQuantity" : "1",
+    "name" : "Đá viên",
+    "branch" : [ {
+      "quantity" : "999933",
+      "name" : "Automation"
+    } ],
+    "costPerUnit" : "1000"
+  }, {
+    "image" : "resources/image/materials/duongnuocauto.jpg",
+    "unit" : "gam",
+    "minQuantity" : "1",
+    "name" : "Thạch rau câu auto",
+    "branch" : [ {
+      "quantity" : "999838",
+      "name" : "Automation"
+    } ],
+    "costPerUnit" : "1"
+  }, {
+    "image" : "resources/image/materials/davienauto.jpg",
+    "unit" : "gam",
+    "minQuantity" : "2",
+    "name" : "bột cafe bao dùng k hết",
+    "branch" : [ {
+      "quantity" : "99963",
+      "name" : "Automation"
+    } ],
+    "costPerUnit" : "1,000"
+  } ]
+}

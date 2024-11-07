@@ -1,0 +1,55 @@
+{
+  "productCategory": [
+    {
+      "name": "Cafe pcategory971",
+      "isDisplayAllBranches": false,
+      "branchs": [
+        {
+          "name": "Bình Thạnh"
+        },
+        {
+          "name": "Go Food And Beverage"
+        }
+      ],
+      "products": [
+        {
+          "name": "Phin Đen Đá Auto971"
+        },
+        {
+          "name": "Cafe sữa Auto971"
+        }
+      ],
+      "priority": "1"
+    },
+    {
+      "name": "Nước giải khátt pcategory971",
+      "isDisplayAllBranches": false,
+      "branchs": [
+        {
+          "name": "Bình Thạnh"
+        }
+      ],
+      "products": [
+        {
+          "name": "Product Auto971"
+        }
+      ],
+      "priority": "1"
+    },
+    {
+      "name": "Nước có ga pcategory971",
+      "isDisplayAllBranches": true,
+      "branchs": [
+        {
+          "name": "Bình Thạnh"
+        }
+      ],
+      "products": [
+        {
+          "name": "Product Auto971"
+        }
+      ],
+      "priority": "1"
+    }
+  ]
+}

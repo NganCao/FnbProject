@@ -1,0 +1,903 @@
+{
+    "themeId": "46565F44-C3E2-449D-8D58-3850A95FFBA7",
+    "storeThemeId": "73793bee-392b-42b6-165a-08dbff9f867f",
+    "currencyCode": "VND",
+    "currencySymbol": "đ",
+    "general": {
+        "generalBackground": {
+            "backgroundType": 1,
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "backgroundImage": "/images/default-theme/background-default.png"
+        },
+        "color": {
+            "colorGroups": [
+                {
+                    "id": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "name": "Color Group Default",
+                    "titleColor": "rgba(248,231,28,1)",
+                    "textColor": "rgba(0, 0, 0, 1)",
+                    "buttonBackgroundColor": "rgba(219,77,41,1)",
+                    "buttonTextColor": "rgba(255,255,255,1)",
+                    "buttonBorderColor": "transparent",
+                    "isDefault": true
+                },
+                {
+                    "id": "370c6c5b-7796-4104-84c8-0753d8b78804",
+                    "name": "Color group 1",
+                    "titleColor": "rgba(0,0,0,1)",
+                    "textColor": "rgba(255,110,129,1)",
+                    "buttonBackgroundColor": "rgba(255,221,163,1)",
+                    "buttonTextColor": "rgba(255,255,255,1)",
+                    "buttonBorderColor": "transparent",
+                    "isDefault": true
+                },
+                {
+                    "id": "0b00d9ec-7f73-40f4-9bb2-ed8386f00cf2",
+                    "name": "Color group 2",
+                    "titleColor": "rgba(135,230,255,1)",
+                    "textColor": "rgba(255,255,255,1)",
+                    "buttonBackgroundColor": "rgba(184,233,134,1)",
+                    "buttonTextColor": "rgba(65,117,5,1)",
+                    "buttonBorderColor": "transparent",
+                    "isDefault": true
+                }
+            ]
+        },
+        "header": {
+            "backgroundType": 1,
+            "backgroundColor": "rgba(255,212,225,1)",
+            "backgroundImage": null,
+            "colorGroupId": "370c6c5b-7796-4104-84c8-0753d8b78804",
+            "logoUrl": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105030.jpg",
+            "menuId": "55168c10-f89c-49f0-3e28-08dc07903fb8",
+            "scrollType": 1,
+            "menuItems": [
+                {
+                    "id": "ff8e98e1-5bef-4bd5-a4c1-08dc07903fb8",
+                    "expanded": true,
+                    "categoryId": "",
+                    "productId": "",
+                    "pageId": "",
+                    "blogId": "",
+                    "children": [
+                        
+                    ],
+                    "name": "Home",
+                    "hyperlinkOption": 1,
+                    "url": ""
+                },
+                {
+                    "id": "0faba49c-4850-4d02-bb88-08dc07903fb8",
+                    "expanded": true,
+                    "categoryId": "",
+                    "productId": "",
+                    "pageId": "",
+                    "blogId": "",
+                    "children": [
+                        
+                    ],
+                    "name": "All products - Tất cả sản phẩm",
+                    "hyperlinkOption": 2,
+                    "url": ""
+                },
+                {
+                    "id": "6c44639b-774f-4eaa-c530-08dc07903fb8",
+                    "expanded": true,
+                    "categoryId": "",
+                    "productId": "",
+                    "pageId": "",
+                    "blogId": "",
+                    "children": [
+                        {
+                            "id": "5a976ba8-7988-47d8-c54e-08dc07903fb8",
+                            "expanded": true,
+                            "categoryId": "",
+                            "productId": "38b9102b-d133-49ae-9b37-08dbff975126",
+                            "pageId": "",
+                            "blogId": "",
+                            "children": [
+                                
+                            ],
+                            "name": "Mì ý sốt bò bằm",
+                            "hyperlinkOption": 8,
+                            "url": "38b9102b-d133-49ae-9b37-08dbff975126",
+                            "parentId": "6c44639b-774f-4eaa-c530-08dc07903fb8",
+                            "position": 1
+                        },
+                        {
+                            "id": "9fae7304-bf92-4430-c842-08dc07903fb8",
+                            "expanded": true,
+                            "categoryId": "",
+                            "productId": "25c0b55e-432f-45c7-de29-08dbff9ceb27",
+                            "pageId": "",
+                            "blogId": "",
+                            "children": [
+                                
+                            ],
+                            "name": "Mì ý sốt kem cá hồi",
+                            "hyperlinkOption": 8,
+                            "url": "25c0b55e-432f-45c7-de29-08dbff9ceb27",
+                            "parentId": "6c44639b-774f-4eaa-c530-08dc07903fb8",
+                            "position": 2
+                        }
+                    ],
+                    "name": "Category",
+                    "hyperlinkOption": 6,
+                    "url": "#"
+                },
+                {
+                    "id": "2b7382fa-1eb1-4211-c862-08dc07903fb8",
+                    "expanded": true,
+                    "categoryId": "",
+                    "productId": "",
+                    "pageId": "",
+                    "blogId": "",
+                    "children": [
+                        
+                    ],
+                    "name": "Reservation",
+                    "hyperlinkOption": 13,
+                    "url": ""
+                },
+                {
+                    "id": "e0a449ed-09dd-43da-1740-08dc0790d690",
+                    "expanded": true,
+                    "categoryId": "e1df8ca4-da80-4f73-bc0a-08dbff9700f9",
+                    "productId": "",
+                    "pageId": "",
+                    "blogId": "",
+                    "children": [
+                        {
+                            "id": "a5a93604-e729-4bed-cf3b-08dc0791897a",
+                            "expanded": true,
+                            "categoryId": "",
+                            "productId": "",
+                            "pageId": "",
+                            "blogId": "",
+                            "children": [
+                                
+                            ],
+                            "name": "Check",
+                            "hyperlinkOption": 5,
+                            "url": "",
+                            "parentId": "e0a449ed-09dd-43da-1740-08dc0790d690",
+                            "position": 1
+                        }
+                    ],
+                    "name": "Spagheties",
+                    "hyperlinkOption": 7,
+                    "url": "e1df8ca4-da80-4f73-bc0a-08dbff9700f9"
+                },
+                {
+                    "id": "1d77494c-09ce-4bfd-c867-08dc07903fb8",
+                    "expanded": true,
+                    "categoryId": "",
+                    "productId": "",
+                    "pageId": "",
+                    "blogId": "",
+                    "children": [
+                        {
+                            "id": "9a4086f5-f778-45a0-1817-08dc0790d690",
+                            "expanded": true,
+                            "categoryId": "",
+                            "productId": "",
+                            "pageId": "",
+                            "blogId": "5c72a6b8-d493-4a5f-3001-08dc078fb798",
+                            "children": [
+                                
+                            ],
+                            "name": "Trồng cây",
+                            "hyperlinkOption": 10,
+                            "url": "5c72a6b8-d493-4a5f-3001-08dc078fb798",
+                            "parentId": "1d77494c-09ce-4bfd-c867-08dc07903fb8",
+                            "position": 1
+                        }
+                    ],
+                    "name": "Blogs",
+                    "hyperlinkOption": 5,
+                    "url": ""
+                },
+                {
+                    "id": "86c4ddb5-38e0-44af-c870-08dc07903fb8",
+                    "expanded": true,
+                    "categoryId": "",
+                    "productId": "",
+                    "pageId": "66a8e055-1ee3-4621-91ca-08dc07a4ada3",
+                    "blogId": "",
+                    "children": [
+                        
+                    ],
+                    "name": "Bác sĩ kể thiên nhiên là liều thuốc chữa bệnh",
+                    "hyperlinkOption": 9,
+                    "url": "66a8e055-1ee3-4621-91ca-08dc07a4ada3"
+                }
+            ]
+        },
+        "footer": {
+            "generalCustomization": {
+                "backgroundType": 1,
+                "backgroundColor": "rgba(14,33,33,1)",
+                "backgroundImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024103442.jpg",
+                "colorGroupId": "0b00d9ec-7f73-40f4-9bb2-ed8386f00cf2"
+            },
+            "logo": {
+                "visible": true,
+                "logoUrl": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105630.jpg"
+            },
+            "storeInformation": {
+                "headOffice": null,
+                "phoneNumber": null,
+                "email": "hotro@gosell.com",
+                "email1": null,
+                "storeName": "CỬA HÀNG MEOW",
+                "address": "60A Trường Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam 2 ",
+                "hotline": "1213305454",
+                "showAllBranch": true,
+                "visible": true,
+                "numberOfBranches": 5
+            },
+            "menu": {
+                "menuTitle": "ABOUT US",
+                "menuId": "55168c10-f89c-49f0-3e28-08dc07903fb8",
+                "menuItems": [
+                    {
+                        "id": "ff8e98e1-5bef-4bd5-a4c1-08dc07903fb8",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            
+                        ],
+                        "name": "Home",
+                        "hyperlinkOption": 1,
+                        "url": ""
+                    },
+                    {
+                        "id": "0faba49c-4850-4d02-bb88-08dc07903fb8",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            
+                        ],
+                        "name": "All products - Tất cả sản phẩm",
+                        "hyperlinkOption": 2,
+                        "url": ""
+                    },
+                    {
+                        "id": "6c44639b-774f-4eaa-c530-08dc07903fb8",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            {
+                                "id": "5a976ba8-7988-47d8-c54e-08dc07903fb8",
+                                "expanded": true,
+                                "categoryId": "",
+                                "productId": "38b9102b-d133-49ae-9b37-08dbff975126",
+                                "pageId": "",
+                                "blogId": "",
+                                "children": [
+                                    
+                                ],
+                                "name": "Mì ý sốt bò bằm",
+                                "hyperlinkOption": 8,
+                                "url": "38b9102b-d133-49ae-9b37-08dbff975126",
+                                "parentId": "6c44639b-774f-4eaa-c530-08dc07903fb8",
+                                "position": 1
+                            },
+                            {
+                                "id": "9fae7304-bf92-4430-c842-08dc07903fb8",
+                                "expanded": true,
+                                "categoryId": "",
+                                "productId": "25c0b55e-432f-45c7-de29-08dbff9ceb27",
+                                "pageId": "",
+                                "blogId": "",
+                                "children": [
+                                    
+                                ],
+                                "name": "Mì ý sốt kem cá hồi",
+                                "hyperlinkOption": 8,
+                                "url": "25c0b55e-432f-45c7-de29-08dbff9ceb27",
+                                "parentId": "6c44639b-774f-4eaa-c530-08dc07903fb8",
+                                "position": 2
+                            }
+                        ],
+                        "name": "Category",
+                        "hyperlinkOption": 6,
+                        "url": "#"
+                    },
+                    {
+                        "id": "2b7382fa-1eb1-4211-c862-08dc07903fb8",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            
+                        ],
+                        "name": "Reservation",
+                        "hyperlinkOption": 13,
+                        "url": ""
+                    },
+                    {
+                        "id": "e0a449ed-09dd-43da-1740-08dc0790d690",
+                        "expanded": true,
+                        "categoryId": "e1df8ca4-da80-4f73-bc0a-08dbff9700f9",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            {
+                                "id": "a5a93604-e729-4bed-cf3b-08dc0791897a",
+                                "expanded": true,
+                                "categoryId": "",
+                                "productId": "",
+                                "pageId": "",
+                                "blogId": "",
+                                "children": [
+                                    
+                                ],
+                                "name": "Check",
+                                "hyperlinkOption": 5,
+                                "url": "",
+                                "parentId": "e0a449ed-09dd-43da-1740-08dc0790d690",
+                                "position": 1
+                            }
+                        ],
+                        "name": "Spagheties",
+                        "hyperlinkOption": 7,
+                        "url": "e1df8ca4-da80-4f73-bc0a-08dbff9700f9"
+                    },
+                    {
+                        "id": "1d77494c-09ce-4bfd-c867-08dc07903fb8",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            {
+                                "id": "9a4086f5-f778-45a0-1817-08dc0790d690",
+                                "expanded": true,
+                                "categoryId": "",
+                                "productId": "",
+                                "pageId": "",
+                                "blogId": "5c72a6b8-d493-4a5f-3001-08dc078fb798",
+                                "children": [
+                                    
+                                ],
+                                "name": "Trồng cây",
+                                "hyperlinkOption": 10,
+                                "url": "5c72a6b8-d493-4a5f-3001-08dc078fb798",
+                                "parentId": "1d77494c-09ce-4bfd-c867-08dc07903fb8",
+                                "position": 1
+                            }
+                        ],
+                        "name": "Blogs",
+                        "hyperlinkOption": 5,
+                        "url": ""
+                    },
+                    {
+                        "id": "86c4ddb5-38e0-44af-c870-08dc07903fb8",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "66a8e055-1ee3-4621-91ca-08dc07a4ada3",
+                        "blogId": "",
+                        "children": [
+                            
+                        ],
+                        "name": "Bác sĩ kể thiên nhiên là liều thuốc chữa bệnh",
+                        "hyperlinkOption": 9,
+                        "url": "66a8e055-1ee3-4621-91ca-08dc07a4ada3"
+                    }
+                ],
+                "visible": true
+            },
+            "businessLicense": {
+                "businessLicenseURL": "",
+                "visible": true
+            },
+            "policy": {
+                "menuId": "e13178f2-2255-4a62-247a-08dbffa5f2c1",
+                "visible": true,
+                "menuItems": [
+                    {
+                        "id": "05983e1c-0831-4d85-2e99-08dbffa5f2c1",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            
+                        ],
+                        "name": "Home",
+                        "hyperlinkOption": 1,
+                        "url": ""
+                    },
+                    {
+                        "id": "a9c0bd55-009d-4596-2ed1-08dbffa5f2c1",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            {
+                                "id": "4ddfc100-1b18-42e7-2ee1-08dbffa5f2c1",
+                                "expanded": true,
+                                "categoryId": "",
+                                "productId": "38b9102b-d133-49ae-9b37-08dbff975126",
+                                "pageId": "",
+                                "blogId": "",
+                                "children": [
+                                    
+                                ],
+                                "name": "Product 1",
+                                "hyperlinkOption": 8,
+                                "url": "38b9102b-d133-49ae-9b37-08dbff975126",
+                                "parentId": "a9c0bd55-009d-4596-2ed1-08dbffa5f2c1"
+                            },
+                            {
+                                "id": "6d01203c-92b3-4335-2f06-08dbffa5f2c1",
+                                "expanded": true,
+                                "categoryId": "",
+                                "productId": "25c0b55e-432f-45c7-de29-08dbff9ceb27",
+                                "pageId": "",
+                                "blogId": "",
+                                "children": [
+                                    
+                                ],
+                                "name": "Product 2",
+                                "hyperlinkOption": 8,
+                                "url": "25c0b55e-432f-45c7-de29-08dbff9ceb27",
+                                "parentId": "a9c0bd55-009d-4596-2ed1-08dbffa5f2c1"
+                            },
+                            {
+                                "id": "0bb04d0c-70cd-4ac7-2f0a-08dbffa5f2c1",
+                                "expanded": true,
+                                "categoryId": "",
+                                "productId": "97156ac4-8508-4393-fded-08dbff9d4588",
+                                "pageId": "",
+                                "blogId": "",
+                                "children": [
+                                    
+                                ],
+                                "name": "Product 3",
+                                "hyperlinkOption": 8,
+                                "url": "97156ac4-8508-4393-fded-08dbff9d4588",
+                                "parentId": "a9c0bd55-009d-4596-2ed1-08dbffa5f2c1"
+                            }
+                        ],
+                        "name": "Product",
+                        "hyperlinkOption": 1,
+                        "url": ""
+                    },
+                    {
+                        "id": "4bb0b041-f2a0-4fa7-23e8-08dbffab2214",
+                        "expanded": true,
+                        "categoryId": "",
+                        "productId": "",
+                        "pageId": "",
+                        "blogId": "",
+                        "children": [
+                            
+                        ],
+                        "name": "Blog",
+                        "hyperlinkOption": 5,
+                        "url": ""
+                    }
+                ]
+            },
+            "socialNetwork": {
+                "socialNetworkTitle": "KẾT NỐI VỚI CHÚNG TÔI",
+                "isFacebook": true,
+                "facebookURL": "https://www.instagram.com/Gosell.vn",
+                "isInstagram": true,
+                "instagramURL": "https://www.instagram.com/Gosell.vn",
+                "isTiktok": true,
+                "tiktokURL": "https://www.tiktok.com/Gosell.vn",
+                "isTwitter": true,
+                "twitterURL": "https://www.instagram.com/Gosell.vn",
+                "isYoutube": true,
+                "youtubeURL": "https://www.youtube.com/Gosell.vn",
+                "visible": true
+            },
+            "copyRight": {
+                "copyRightText": "Copyright © 2024 Meow",
+                "visible": true
+            },
+            "downloadApp": {
+                "downloadAppTitle": "",
+                "appStoreImage": "/images/default-theme/2/app-store.png",
+                "googlePlayImage": "/images/default-theme/2/google-play.png",
+                "visible": true,
+                "qrCodeImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024103226.png",
+                "qrCode": true,
+                "appStore": true,
+                "googlePlay": true
+            }
+        },
+        "favicon": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024103233.ico",
+        "appLogo": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105141.jpg",
+        "font": {
+            "name": "Montserrat Alternates",
+            "path": "https://fonts.googleapis.com/css?family=Montserrat+Alternates"
+        }
+    },
+    "pages": [
+        {
+            "id": "726F7453-5765-6265-5061-676500000001",
+            "config": {
+                "banner": {
+                    "visible": true,
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "bannerList": [
+                        {
+                            "imageUrl": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105654.png",
+                            "hyperlinkType": 2,
+                            "hyperlinkValue": null
+                        },
+                        {
+                            "imageUrl": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105228.webp",
+                            "hyperlinkType": 2,
+                            "hyperlinkValue": null
+                        },
+                        {
+                            "imageUrl": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105700.jpg",
+                            "hyperlinkType": null,
+                            "hyperlinkValue": null
+                        }
+                    ]
+                },
+                "flashSale": {
+                    "visible": true,
+                    "generalCustomization": {
+                        "backgroundType": 1,
+                        "backgroundColor": "rgba(255,255,255,1)",
+                        "colorGroupId": "370c6c5b-7796-4104-84c8-0753d8b78804"
+                    }
+                },
+                "promotionSection": {
+                    "visible": true,
+                    "generalCustomization": {
+                        "backgroundType": 1,
+                        "backgroundColor": "rgba(255,255,255,1)",
+                        "colorGroupId": "0b00d9ec-7f73-40f4-9bb2-ed8386f00cf2"
+                    },
+                    "generalComponentCustomization": {
+                        "backgroundType": 1,
+                        "backgroundColor": "rgba(255,255,255,1)"
+                    }
+                },
+                "advertisement": {
+                    "visible": true,
+                    "generalCustomization": {
+                        "backgroundType": 1,
+                        "backgroundColor": "rgba(255,255,255,1)",
+                        "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59"
+                    },
+                    "advertisementItems": [
+                        {
+                            "imageUrl": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105539.jpg",
+                            "hyperlinkType": 8,
+                            "hyperlinkValue": "f3968345-7b4d-4e97-1ba7-08dc4c7fb4dc"
+                        },
+                        {
+                            "imageUrl": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024105527.jpg",
+                            "hyperlinkType": 8,
+                            "hyperlinkValue": "25c0b55e-432f-45c7-de29-08dbff9ceb27"
+                        }
+                    ]
+                },
+                "introduction": {
+                    "visible": true,
+                    "generalCustomization": {
+                        "backgroundType": 1,
+                        "backgroundColor": "rgba(255,255,255,1)",
+                        "colorGroupId": "370c6c5b-7796-4104-84c8-0753d8b78804"
+                    },
+                    "introductionCustomization": {
+                        "image": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/04042024103831.jpg",
+                        "header": "GIỚI THIỆU",
+                        "title": "Tận hưởng một hành trình đặc biệt của hương vị",
+                        "description": "<div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\" fr-original-class=\"top-view-text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas integer nunc mi, ac aliquet pretium platea. Nisl eu nulla nunc, risus eu, volutpat. Blandit in cursus purus nibh. Felis mattis cras morbi a, viverra est arcu ligula sapien. Eu sagittis felis purus urna. Cras purus quis tincidunt cursus id.</div><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\" fr-original-class=\"top-view-content\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\" fr-original-class=\"bullet-point\">&nbsp;</div><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\" fr-original-class=\"top-view-line\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas integer nunc mi, ac aliquet pretium platea.</div></div></div><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\" fr-original-class=\"top-view-content\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\" fr-original-class=\"bullet-point\">&nbsp;</div><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\" fr-original-class=\"top-view-line\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\" fr-original-style=\"\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas integer nunc mi, ac aliquet pretium platea.</div></div></div>",
+                        "buttonLabel": "XEM THÊM",
+                        "hyperlink": 5,
+                        "sections": [
+                            {
+                                "id": "1",
+                                "icon": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/06012023154944.png",
+                                "header": "Mì ý bò bằm",
+                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "hyperlink": 8,
+                                "url": "38b9102b-d133-49ae-9b37-08dbff975126",
+                                "isDefault": true
+                            },
+                            {
+                                "id": "2",
+                                "icon": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/06012023155045.png",
+                                "header": "Home page",
+                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "hyperlink": 1,
+                                "url": null,
+                                "isDefault": false
+                            },
+                            {
+                                "id": "3",
+                                "icon": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/06012023155122.png",
+                                "header": "Product list",
+                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "hyperlink": 2,
+                                "url": null,
+                                "isDefault": false
+                            },
+                            {
+                                "id": "4",
+                                "icon": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/06012023155150.png",
+                                "header": "Vịt all",
+                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "hyperlink": 8,
+                                "url": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                                "isDefault": false
+                            }
+                        ]
+                    }
+                },
+                "todayMenu": {
+                    "visible": true,
+                    "generalCustomization": {
+                        "backgroundType": 1,
+                        "backgroundColor": "rgba(255, 255, 255, 1)",
+                        "colorGroupId": "370c6c5b-7796-4104-84c8-0753d8b78804"
+                    },
+                    "headerText": "MENU SPECIAL",
+                    "titleText": "Todays Special Menu",
+                    "isCheckAllCategory": true
+                },
+                "blogs": {
+                    "visible": true,
+                    "generalCustomization": {
+                        "backgroundType": 1,
+                        "backgroundColor": "rgba(255, 255, 255, 1)",
+                        "colorGroupId": "370c6c5b-7796-4104-84c8-0753d8b78804"
+                    },
+                    "headerText": "TIN TỨC & KHUYẾN MÃI",
+                    "titleText": "Bài viết nổi bật"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000002",
+            "config": {
+                "header": {
+                    "title": "Thực Đơn",
+                    "backgroundType": 2,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "backgroundImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/15122022101954.png",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59"
+                },
+                "productsProductList": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/17102023113152.png"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000003",
+            "config": {
+                "header": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": null
+                },
+                "productDetail": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": null
+                },
+                "relatedProducts": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": null,
+                    "title": "Related product"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000004",
+            "config": {
+                "header": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": null
+                },
+                "productDetail": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": null
+                },
+                "relatedProducts": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": null,
+                    "title": "Related product"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000005",
+            "config": {
+                
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000006",
+            "config": {
+                
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000007",
+            "config": {
+                "header": {
+                    "visible": true,
+                    "backgroundType": 2,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "backgroundImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/15122022101954.png",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59"
+                },
+                "checkout": {
+                    "visible": true,
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59"
+                },
+                "relatedProducts": {
+                    "visible": true,
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(187,255,120,0.34)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "categoryId": "e78a50b2-2e72-46b3-5f00-08dc4c7fc86b"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000008",
+            "config": {
+                
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-676500000009",
+            "config": {
+                "backgroundType": 1,
+                "backgroundColor": "rgba(255,255,255,1)",
+                "backgroundImage": "/images/default-theme/background-default-login-theme-2.png",
+                "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                "title": "Đăng nhập"
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-67650000000B",
+            "config": {
+                "backgroundType": 1,
+                "backgroundColor": "rgba(244,244,244,100)",
+                "backgroundImage": null,
+                "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59"
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-67650000000C",
+            "config": {
+                "header": {
+                    "backgroundType": 2,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": "/images/default-theme/2/blog-detail-header-default.png",
+                    "title": "Contact"
+                },
+                "information": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59"
+                },
+                "contactUs": {
+                    "backgroundType": 2,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "6032CC80-CBF2-4EF4-8BC2-5B43E3F02009",
+                    "backgroundImage": "/images/default-theme/2/contact-footer-default.png"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-67650000000D",
+            "config": {
+                
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-67650000000E",
+            "config": {
+                "header": {
+                    "backgroundType": 2,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/07082023141810.png",
+                    "title": "Blogs"
+                },
+                "blogs": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": "/images/default-theme/background-default-blog-theme-2.png"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-67650000000F",
+            "config": {
+                "header": {
+                    "backgroundType": 2,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/07082023141810.png",
+                    "title": "Blogs"
+                },
+                "blogs": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": "/images/default-theme/background-default-blog-theme-2.png"
+                }
+            }
+        },
+        {
+            "id": "726F7453-5765-6265-5061-67650000000H",
+            "config": {
+                "header": {
+                    "backgroundType": 2,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/15112023142540.jpg",
+                    "title": "Reservation",
+                    "visible": true
+                },
+                "reservation": {
+                    "backgroundType": 1,
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "colorGroupId": "332c77be-1174-4859-8187-f01e0c40cb59",
+                    "backgroundImage": null
+                }
+            }
+        }
+    ],
+    "isCheckProductSell": true,
+    "storeId": "f3200052-7550-453f-4778-08dbef0bc7f8",
+    "apiUrl": "https://api.stag-pos.beecowdeal.vn/api/v3.4",
+    "googleApiKey": "AIzaSyDJBwzrHdHae_2zYXPCAaWtQjFFc7x_3Cc",
+    "storeName": "Donut store",
+    "lastUpdateDate": "2024-06-17T07:06:15.6887552Z",
+    "email": "en.pyrish.ym@gmail.com",
+    "phoneNumber": "121545632200",
+    "defaultLanguage": "vi"
+}

@@ -1,0 +1,48 @@
+{
+  "branch": [
+    {
+      "name": "Bình Thạnh",
+      "phoneNumber": "0365771592",
+      "addressInfo": "Nguyễn Văn Thương, 25, Bình Thạnh, Hồ Chí Minh, Viet Nam",
+      "address": {
+        "address1": "Nguyễn Văn Thương",
+        "country": {
+          "name": "Viet Nam"
+        },
+        "city": {
+          "name": "Hồ Chí Minh"
+        },
+        "district": {
+          "name": "Bình Thạnh",
+          "prefix": "Quận"
+        },
+        "ward": {
+          "name": "25",
+          "prefix": "Phường"
+        }
+      }
+    },
+    {
+      "name": "Go Food And Beverage",
+      "phoneNumber": "0365771592",
+      "addressInfo": "DI AN BINH DUONG,  Chiêu Liêu, Tân Đông Hiệp, Dĩ An, Bình Dương, Viet Nam",
+      "address": {
+        "address1": "DI AN BINH DUONG,  Chiêu Liêu",
+        "country": {
+          "name": "Viet Nam"
+        },
+        "city": {
+          "name": "Bình Dương"
+        },
+        "district": {
+          "name": "Dĩ An",
+          "prefix": "Thị xã"
+        },
+        "ward": {
+          "name": "Tân Đông Hiệp",
+          "prefix": "Phường"
+        }
+      }
+    }
+  ]
+}

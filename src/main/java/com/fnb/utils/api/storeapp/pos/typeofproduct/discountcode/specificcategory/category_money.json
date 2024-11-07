@@ -1,0 +1,46 @@
+{
+  "discountCode": {
+    "name": "Discount code specific category by money",
+    "discountCodeTypeId": 2,
+    "startDate": "2024-04-24 08:29:00",
+    "startTime": "2024-04-24T08:29:00.847Z",
+    "endDate": "2024-04-29 17:00:00",
+    "endTime": "2024-04-23T17:00:00.387Z",
+    "branchIds": [
+      "b707d08d-4889-4ee0-49de-08dc4716d7f3",
+      "ce3a3215-ab42-415f-0343-08dc215b374b",
+      "3d36fd3c-81af-4aa2-f075-08dc4716c8b5",
+      "d8aec5df-31bb-4349-f27e-08dc4716afa7",
+      "430e53bd-e51f-49a7-954d-08dc215c5c59"
+    ],
+    "platformIds": [
+      "6c626154-5065-616c-7466-6f7200000002",
+      "6c626154-5065-616c-7466-6f7200000004",
+      "6c626154-5065-616c-7466-6f7200000005"
+    ],
+    "isIncludedTopping": false,
+    "isLimitOneTimeUse": false,
+    "code": "WILLS6",
+    "serviceTypeIds": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "productCategoryIds": [
+      "8ffd43c7-babc-471d-d110-08dc4e07419f"
+    ],
+    "isPercentDiscount": false,
+    "maximumDiscountAmount": 30000,
+    "isMinimumPurchaseAmount": false,
+    "isLimitNumberCouponUse": false,
+    "isAllBranches": true,
+    "listCustomerId": [],
+    "totalCustomerSegment": 0,
+    "isAllCustomers": true,
+    "listCustomerSegmentId": [],
+    "isApplyAllCategories": false,
+    "isApplyAllProducts": false,
+    "productIds": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "product": {
+    "id": "251411e4-fba6-4c07-0529-08dc62b5b6de",
+    "name": "Products + size",
+    "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/22042024171930.jpg",
+    "statusId": 1,
+    "unit": {
+      "id": "02b2a05b-40b2-4b70-b15b-08dc4e0649f4",
+      "name": "cái",
+      "code": 647
+    },
+    "tax": {
+      "id": "541ba9ad-d158-4fc1-9832-08dc5ec17999",
+      "taxTypeId": 0,
+      "name": "Tax for wills",
+      "percentage": 5.00,
+      "formatName": "Tax for wills (5%)"
+    },
+    "isTopping": false,
+    "productCategoryId": "8ffd43c7-babc-471d-d110-08dc4e07419f",
+    "productCategoryName": "A category for wills",
+    "productPrices": [
+      {
+        "isPriceBelongsCombo": false,
+        "id": "8c7dc0ea-abb2-4b01-f01a-08dc62b5b6dd",
+        "productId": "251411e4-fba6-4c07-0529-08dc62b5b6de",
+        "code": 10158,
+        "barcode": "P000010158",
+        "priceName": "size S",
+        "priceValue": 10000.00,
+        "isDeleted": false,
+        "isApplyPromotion": false,
+        "originalPrice": 0.0,
+        "position": 0,
+        "createdTime": "2024-04-22T10:19:37.6390447"
+      },
+      {
+        "isPriceBelongsCombo": false,
+        "id": "a3cbff3e-b391-49ae-04ed-08dc62b5b6de",
+        "productId": "251411e4-fba6-4c07-0529-08dc62b5b6de",
+        "code": 10159,
+        "barcode": "P000010159",
+        "priceName": "size M",
+        "priceValue": 15000.00,
+        "isDeleted": false,
+        "isApplyPromotion": false,
+        "originalPrice": 0.0,
+        "position": 1,
+        "createdTime": "2024-04-22T10:19:37.6390479"
+      },
+      {
+        "isPriceBelongsCombo": false,
+        "id": "6e3bfbea-a4b1-45e2-0508-08dc62b5b6de",
+        "productId": "251411e4-fba6-4c07-0529-08dc62b5b6de",
+        "code": 10157,
+        "barcode": "P000010157",
+        "priceName": "size L",
+        "priceValue": 20000.00,
+        "isDeleted": false,
+        "isApplyPromotion": false,
+        "originalPrice": 0.0,
+        "position": 2,
+        "createdTime": "2024-04-22T10:19:37.6390501"
+      }
+    ],
+    "productInventoryData": [
+      {
+        "priceId": "00000000-0000-0000-0000-000000000000",
+        "priceName": "size S",
+        "listProductPriceMaterial": [
+          {
+            "priceId": "00000000-0000-0000-0000-000000000000",
+            "priceName": "size S",
+            "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+            "material": "bột cafe bao dùng k hết",
+            "quantity": 9999.00,
+            "unit": "gam",
+            "unitCost": 1000.00,
+            "cost": 9999000.0000
+          }
+        ],
+        "totalCost": 9999000.0000
+      },
+      {
+        "priceId": "00000000-0000-0000-0000-000000000000",
+        "priceName": "size M",
+        "listProductPriceMaterial": [
+          {
+            "priceId": "00000000-0000-0000-0000-000000000000",
+            "priceName": "size M",
+            "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+            "material": "bột cafe bao dùng k hết",
+            "quantity": 9999.00,
+            "unit": "gam",
+            "unitCost": 1000.00,
+            "cost": 9999000.0000
+          }
+        ],
+        "totalCost": 9999000.0000
+      },
+      {
+        "priceId": "00000000-0000-0000-0000-000000000000",
+        "priceName": "size L",
+        "listProductPriceMaterial": [
+          {
+            "priceId": "00000000-0000-0000-0000-000000000000",
+            "priceName": "size L",
+            "key": "5c9b1042-8022-421e-95d8-08dc62b23962",
+            "material": "bột cafe bao dùng k hết",
+            "quantity": 9999.00,
+            "unit": "gam",
+            "unitCost": 1000.00,
+            "cost": 9999000.0000
+          }
+        ],
+        "totalCost": 9999000.0000
+      }
+    ],
+    "listOptionIds": [],
+    "options": [],
+    "listPlatformIds": [
+      "6c626154-5065-616c-7466-6f7200000002",
+      "6c626154-5065-616c-7466-6f7200000004",
+      "6c626154-5065-616c-7466-6f7200000005"
+    ],
+    "platforms": [
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000002",
+        "name": "POS",
+        "statusId": 1
+      },
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000004",
+        "name": "Store Web",
+        "statusId": 1
+      },
+      {
+        "id": "6c626154-5065-616c-7466-6f7200000005",
+        "name": "Store App",
+        "statusId": 1
+      }
+    ],
+    "productToppingIds": [],
+    "productToppings": []
+  },
+  "isBelongsActiveCombo": false
+}

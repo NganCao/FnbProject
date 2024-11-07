@@ -1,0 +1,50 @@
+{
+  "url": {
+    "admin": {
+      "dev": "https://api.qa33-admin.beecowdeal.vn/api/",
+      "stag": "https://api.stag-admin.beecowdeal.vn/api/",
+      "prod": ""
+    },
+    "pos": {
+      "dev": "https://api.qa33-pos.beecowdeal.vn/api/",
+      "stag": "https://api.stag-pos.beecowdeal.vn/api/",
+      "prod": ""
+    }
+  },
+  "account": {
+    "theme1": {
+      "dev": {
+        "userName": "linhlinhh2601@gmail.com",
+        "password": "ABC123",
+        "storeIndex": 0
+      },
+      "stag": {
+        "userName": "autostore@mailinator.com",
+        "password": "12345678",
+        "storeIndex": 0
+      },
+      "prod": {
+        "userName": "",
+        "password": "",
+        "storeIndex": 0
+      }
+    },
+    "theme2": {
+      "dev": {
+        "userName": "vanqc1210+04@gmail.com",
+        "password": "qqqqqq111",
+        "storeIndex": 0
+      },
+      "stag": {
+        "userName": "en.pyrish.ym@gmail.com",
+        "password": "ABC123",
+        "storeIndex": 0
+      },
+      "prod": {
+        "userName": "",
+        "password": "",
+        "storeIndex": 0
+      }
+    }
+  }
+}

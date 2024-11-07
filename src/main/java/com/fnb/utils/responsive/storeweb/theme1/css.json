@@ -1,0 +1,29 @@
+{
+  "home": {
+    "header": {
+      "box-content": {
+        "width": "85%",
+        "align-items": "center",
+        "justify-content": "space-between",
+        "logo-menu-contain": {
+          "logo": {
+            "height": "64px",
+            "max-width": "256px"
+          },
+          "menu": {
+            "margin-left": "92px",
+            "itemList": {
+              "max-width": "200px",
+              "height": "100px",
+              "gap": "40px"
+            }
+          },
+          "account": {
+            "height": "",
+            "width": ""
+          }
+        }
+      }
+    }
+  }
+}

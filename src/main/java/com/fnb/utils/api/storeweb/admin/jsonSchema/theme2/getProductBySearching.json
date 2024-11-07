@@ -1,0 +1,186 @@
+{
+    "products": [
+        {
+            "no": 1,
+            "id": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+            "name": "Vịt thơm - all",
+            "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110739.jpg",
+            "status": {
+                "id": 1,
+                "name": "Active"
+            },
+            "isActive": true,
+            "productPrices": [
+                {
+                    "id": "b5ce44c6-bdad-434a-4824-08dc4c8135c5",
+                    "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                    "code": 8019,
+                    "barcode": "P000008019",
+                    "priceName": "S",
+                    "priceValue": 21000.00,
+                    "isDeleted": false,
+                    "isApplyPromotion": false,
+                    "originalPrice": 0.0,
+                    "position": 0,
+                    "createdTime": "2024-03-25T04:08:21.6395211",
+                    "product": {
+                        "id": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                        "productCategoryId": "00000000-0000-0000-0000-000000000000",
+                        "name": "Vịt thơm - all",
+                        "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110739.jpg",
+                        "productPrices": [
+                            {
+                                "id": "10d8bd52-3f78-42c5-4886-08dc4c8135c5",
+                                "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                                "code": 8018,
+                                "barcode": "P000008018",
+                                "priceName": "M",
+                                "priceValue": 31000.00,
+                                "isDeleted": false,
+                                "isApplyPromotion": false,
+                                "originalPrice": 0.0,
+                                "position": 1,
+                                "createdTime": "2024-03-25T04:08:21.6395245"
+                            },
+                            {
+                                "id": "cd040da6-1318-4018-48a9-08dc4c8135c5",
+                                "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                                "code": 8020,
+                                "barcode": "P000008020",
+                                "priceName": "L",
+                                "priceValue": 40000.00,
+                                "isDeleted": false,
+                                "isApplyPromotion": false,
+                                "originalPrice": 0.0,
+                                "position": 2,
+                                "createdTime": "2024-03-25T04:08:21.6395262"
+                            }
+                        ],
+                        "isTopping": false
+                    }
+                },
+                {
+                    "id": "10d8bd52-3f78-42c5-4886-08dc4c8135c5",
+                    "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                    "code": 8018,
+                    "barcode": "P000008018",
+                    "priceName": "M",
+                    "priceValue": 31000.00,
+                    "isDeleted": false,
+                    "isApplyPromotion": false,
+                    "originalPrice": 0.0,
+                    "position": 1,
+                    "createdTime": "2024-03-25T04:08:21.6395245",
+                    "product": {
+                        "id": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                        "productCategoryId": "00000000-0000-0000-0000-000000000000",
+                        "name": "Vịt thơm - all",
+                        "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110739.jpg",
+                        "productPrices": [
+                            {
+                                "id": "b5ce44c6-bdad-434a-4824-08dc4c8135c5",
+                                "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                                "code": 8019,
+                                "barcode": "P000008019",
+                                "priceName": "S",
+                                "priceValue": 21000.00,
+                                "isDeleted": false,
+                                "isApplyPromotion": false,
+                                "originalPrice": 0.0,
+                                "position": 0,
+                                "createdTime": "2024-03-25T04:08:21.6395211"
+                            },
+                            {
+                                "id": "cd040da6-1318-4018-48a9-08dc4c8135c5",
+                                "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                                "code": 8020,
+                                "barcode": "P000008020",
+                                "priceName": "L",
+                                "priceValue": 40000.00,
+                                "isDeleted": false,
+                                "isApplyPromotion": false,
+                                "originalPrice": 0.0,
+                                "position": 2,
+                                "createdTime": "2024-03-25T04:08:21.6395262"
+                            }
+                        ],
+                        "isTopping": false
+                    }
+                },
+                {
+                    "id": "cd040da6-1318-4018-48a9-08dc4c8135c5",
+                    "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                    "code": 8020,
+                    "barcode": "P000008020",
+                    "priceName": "L",
+                    "priceValue": 40000.00,
+                    "isDeleted": false,
+                    "isApplyPromotion": false,
+                    "originalPrice": 0.0,
+                    "position": 2,
+                    "createdTime": "2024-03-25T04:08:21.6395262",
+                    "product": {
+                        "id": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                        "productCategoryId": "00000000-0000-0000-0000-000000000000",
+                        "name": "Vịt thơm - all",
+                        "thumbnail": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110739.jpg",
+                        "productPrices": [
+                            {
+                                "id": "b5ce44c6-bdad-434a-4824-08dc4c8135c5",
+                                "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                                "code": 8019,
+                                "barcode": "P000008019",
+                                "priceName": "S",
+                                "priceValue": 21000.00,
+                                "isDeleted": false,
+                                "isApplyPromotion": false,
+                                "originalPrice": 0.0,
+                                "position": 0,
+                                "createdTime": "2024-03-25T04:08:21.6395211"
+                            },
+                            {
+                                "id": "10d8bd52-3f78-42c5-4886-08dc4c8135c5",
+                                "productId": "46a79451-3212-4e48-48bb-08dc4c8135c5",
+                                "code": 8018,
+                                "barcode": "P000008018",
+                                "priceName": "M",
+                                "priceValue": 31000.00,
+                                "isDeleted": false,
+                                "isApplyPromotion": false,
+                                "originalPrice": 0.0,
+                                "position": 1,
+                                "createdTime": "2024-03-25T04:08:21.6395245"
+                            }
+                        ],
+                        "isTopping": false
+                    }
+                }
+            ],
+            "channels": [
+                {
+                    "id": "6c626154-4365-6168-6e6e-656c00000000",
+                    "name": "In-store"
+                }
+            ],
+            "platforms": [
+                {
+                    "id": "6c626154-5065-616c-7466-6f7200000002",
+                    "name": "POS",
+                    "statusId": 1
+                },
+                {
+                    "id": "6c626154-5065-616c-7466-6f7200000004",
+                    "name": "Store Web",
+                    "statusId": 1
+                },
+                {
+                    "id": "6c626154-5065-616c-7466-6f7200000005",
+                    "name": "Store App",
+                    "statusId": 1
+                }
+            ]
+        }
+    ],
+    "pageNumber": 0,
+    "total": 1
+}

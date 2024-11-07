@@ -1,0 +1,21 @@
+{
+  "promotion": {
+    "name": "discount on specific product",
+    "promotionTypeId": 1,
+    "startDate": "2024-04-24T00:00:00+07:00",
+    "endDate": "2024-04-30T23:59:59+07:00",
+    "isPercentDiscount": false,
+    "maximumDiscountAmount": 15000,
+    "productPriceIds": [
+      "630ffda7-282e-4d60-5538-08dc62b39648"
+    ],
+    "isSpecificBranch": false,
+    "isMinimumPurchaseAmount": false,
+    "isIncludedTopping": false,
+    "isApplyAllCategories": false,
+    "isApplyAllProducts": false,
+    "productIds": [
+      "49f54519-6c72-46c2-55af-08dc62b39648"
+    ]
+  }
+}

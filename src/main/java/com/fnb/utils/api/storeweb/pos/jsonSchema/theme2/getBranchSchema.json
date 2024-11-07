@@ -1,0 +1,54 @@
+{
+    "branchesByCustomerAddress": [
+        {
+            "distance": 1276.2145851945781,
+            "lat": 10.800776,
+            "lng": 106.6569356,
+            "branchAddress": "21 Đường Cộng Hòa, Phường 4, Quận Tân Bình, Hồ Chí Minh",
+            "branchName": "Chi nhánh Cộng Hòa",
+            "branchId": "64734ec4-17fc-4373-df35-08dbffaba35d",
+            "createdTime": "2023-12-18T09:28:04.8548366",
+            "isDefault": false
+        },
+        {
+            "distance": 4834.4515516118145,
+            "lat": 10.7658143,
+            "lng": 106.659488,
+            "branchAddress": "32 Lý Thường Kiệt, Phường 14,  Quận 10, Hồ Chí Minh",
+            "branchName": "Chi nhánh Lý Thường Kiệt",
+            "branchId": "36a8d920-a902-442a-feec-08dbffa46ab1",
+            "createdTime": "2023-12-18T08:36:23.4152235",
+            "isDefault": false
+        },
+        {
+            "distance": 5435.817124209969,
+            "lat": 10.8080673,
+            "lng": 106.7149253,
+            "branchAddress": "54 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
+            "branchName": "Chi nhánh Ung Văn Khiêm",
+            "branchId": "b84f906a-a6b3-4d82-22d0-08dc8a094dbd",
+            "createdTime": "2024-06-11T11:26:14.4688131",
+            "isDefault": false
+        },
+        {
+            "distance": 5835.184965484349,
+            "lat": 10.756555,
+            "lng": 106.6618178,
+            "branchAddress": "128 Đường Hồng Bàng, Phường 12,  Quận 5, Hồ Chí Minh",
+            "branchName": "Chi nhánh Hồng Bàng",
+            "branchId": "58f62f5a-14b9-44a8-2c92-08dbefbdb5f9",
+            "createdTime": "2023-11-28T02:57:08.5595033",
+            "isDefault": true
+        },
+        {
+            "distance": 6916.2852450714,
+            "lat": 10.749874,
+            "lng": 106.645237,
+            "branchAddress": "126 Đường Hậu Giang, Phường 6,  Quận 6, Hồ Chí Minh",
+            "branchName": "Chi nhánh Hậu Giang",
+            "branchId": "de670488-c1e3-481f-0384-08dc5d2e2276",
+            "createdTime": "2024-04-15T09:26:30.9400709",
+            "isDefault": false
+        }
+    ]
+}

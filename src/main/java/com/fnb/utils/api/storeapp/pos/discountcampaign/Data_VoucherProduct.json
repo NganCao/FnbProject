@@ -1,0 +1,19 @@
+{
+  "promotion" : {
+    "isPercentDiscount" : true,
+    "promotionTypeId" : 1,
+    "endDate" : "2025-06-26T10:58:49.023",
+    "isApplyAllProducts" : false,
+    "productPriceIds" : [ "630ffda7-282e-4d60-5538-08dc62b39648" ],
+    "isIncludedTopping" : true,
+    "maximumDiscountAmount" : 20000,
+    "productIds" : [ "49f54519-6c72-46c2-55af-08dc62b39648" ],
+    "VoucherTypeId" : 1,
+    "percentNumber" : 20,
+    "name" : "Voucher for specific product by % 148",
+    "isSpecificBranch" : false,
+    "isMinimumPurchaseAmount" : false,
+    "startDate" : "2024-06-26T10:58:49.023",
+    "isApplyAllCategories" : false
+  }
+}

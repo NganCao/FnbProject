@@ -1,0 +1,213 @@
+{
+  "product": [
+    {
+      "name": "Vịt thơm - all",
+      "image": "resources/image/products/phindenda.jpg",
+      "price": [
+        {
+          "priceName" : "S",
+          "priceValue" : "60000",
+          "position" : "1"
+        },
+        {
+          "priceName" : "M",
+          "priceValue" : "80000",
+          "position" : "2"
+        },
+        {
+          "priceName" : "L",
+          "priceValue" : "100000",
+          "position" : "3"
+        }
+      ],
+      "platforms": [
+        {
+          "name" : "POS devices"
+        },
+        {
+          "name" : "Store Web"
+        },
+        {
+          "name" : "Store App"
+        }
+      ],
+      "tax": "",
+      "unit": "cái",
+      "productInventoryData": [
+        {
+          "listProductPriceMaterials": [
+            {
+              "priceName": "S",
+              "material": "Đá viên",
+              "quantity": "10",
+              "position": "1"
+            },
+            {
+              "priceName": "S",
+              "material": "bột cafe bao dùng k hết",
+              "quantity": "10",
+              "position": "2"
+            }
+          ]
+        },
+        {
+          "listProductPriceMaterials": [
+            {
+              "priceName": "M",
+              "material": "Đá viên",
+              "quantity": "10",
+              "position": "1"
+            },
+            {
+              "priceName": "M",
+              "material": "bột cafe bao dùng k hết",
+              "quantity": "20",
+              "position": "2"
+            }
+          ]
+        },
+        {
+          "listProductPriceMaterials": [
+            {
+              "priceName": "L",
+              "material": "Đá viên",
+              "quantity": "10",
+              "position": "1"
+            },
+            {
+              "priceName": "L",
+              "material": "bột cafe bao dùng k hết",
+              "quantity": "30",
+              "position": "2"
+            }
+          ]
+        }
+      ],
+      "option": [
+        {
+          "name": "Đá Viên"
+        },
+        {
+          "name": "Cafe"
+        }
+      ],
+      "topping": [
+        {
+          "name": "Thạch topping"
+        },
+        {
+          "name": "Topping"
+        }
+      ],
+      "productCategoryName": "Duck"
+    },
+    {
+      "name": "Vịt thơm - size",
+      "image": "resources/image/products/phindenda.jpg",
+      "price": [
+        {
+          "priceName" : "S",
+          "priceValue" : "35000",
+          "position" : "1"
+        },
+        {
+          "priceName" : "M",
+          "priceValue" : "44000",
+          "position" : "2"
+        },
+        {
+          "priceName" : "L",
+          "priceValue" : "52000",
+          "position" : "3"
+        }
+      ],
+      "platforms": [
+        {
+          "name" : "POS devices"
+        },
+        {
+          "name" : "Store Web"
+        },
+        {
+          "name" : "Store App"
+        }
+      ],
+      "tax": "",
+      "unit": "cái",
+      "productInventoryData": [
+        {
+          "listProductPriceMaterials": [
+            {
+              "priceName": "S",
+              "material": "Đá viên",
+              "quantity": "10",
+              "position": "1"
+            }
+          ]
+        },
+        {
+          "listProductPriceMaterials": [
+            {
+              "priceName": "M",
+              "material": "Đá viên",
+              "quantity": "20",
+              "position": "1"
+            }
+          ]
+        },
+        {
+          "listProductPriceMaterials": [
+            {
+              "priceName": "L",
+              "material": "Đá viên",
+              "quantity": "30",
+              "position": "1"
+            }
+          ]
+        }
+      ],
+      "option": [],
+      "topping": [],
+      "productCategoryName": "Duck"
+    },
+    {
+      "name": "Mê Sữa Đá",
+      "image": "resources/image/GoFnB_Logo.png",
+      "price": [
+        {
+          "priceName" : "",
+          "priceValue" : "39000",
+          "position" : "0"
+        }
+      ],
+      "platforms": [
+        {
+          "name" : "POS devices"
+        },
+        {
+          "name" : "Store Web"
+        },
+        {
+          "name" : "Store App"
+        }
+      ],
+      "tax": "",
+      "unit": "ly",
+      "productInventoryData": [
+        {
+          "name": "test",
+          "listProductPriceMaterials": [
+            {
+              "priceName": "",
+              "quantity": "2",
+              "material": "Đá viên"
+            }
+          ]
+        }
+      ],
+      "option": [],
+      "topping": [],
+      "productCategoryName": "Katinat"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite In App">
+    <listeners>
+        <listener class-name="com.fnb.utils.helpers.HelperListener"/>
+    </listeners>
+    <test name="Run test LinStore">
+        <parameter name="platform" value="Android"/>
+        <parameter name="storeName" value="LinStore"/>
+        <parameter name="theme" value="theme1"/>
+        <classes>
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.login.LoginScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.authenticationusingpassword.updateinforaccount.UpdateInfoAccountScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.authenticationusingpassword.changepassword.ChangePassScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.searchbar.SearchBarScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.register.registerlink.RegisterScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.register.deliverybtn.RegisterScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.register.checkoutpage.RegisterScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.branch.BranchScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.homepage.delivery.addressmanagementlist.AddressManagementListScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.homepage.delivery.addnewaddress.AddNewAddressScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.homepage.delivery.editanddeleteanaddress.EditAnAddressScenatioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.homepage.pickup.PickUpManagementScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.homepage.delivery.addnewaddress.AddNewAddressScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.homepage.delivery.editanddeleteanaddress.EditAnAddressScenatioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.homepage.pickup.PickUpManagementScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.loyaltypoint.LoyaltyPointScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.banner.BannerScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.addressmanagement.userlocation.UserLocationScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.viewpromotion.productlist.PromotionProductListScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.viewpromotion.checkoutpage.PromotionCheckoutScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.applyproductpromotion.onlyproduct.ApplyProductPromotionScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.applyproductpromotion.onlyproduct.ApplyProductTotalMoneyScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.applyproductpromotion.onlyproduct.ApplyProductAndSpecificProductScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.applyproductpromotion.onlyproduct.ApplyTotalProductCategoryScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.applyproductpromotion.producttopping.ApplyProductPromotionScenarioTest"/>-->
+            <!--            <class name="com.fnb.app.storeapp.android.linstore.scenationtests.promotion.applyproductpromotion.producttopping.ApplyProductAndSpecificProductScenarioTest"/>-->
+        </classes>
+    </test>
+    <test name="Run test POS APP - Tiet U">
+        <parameter name="platform" value="Android"/>
+        <parameter name="storeName" value="LinStore"/>
+        <parameter name="theme" value="theme1"/>
+        <classes>
+            <class name="com.fnb.app.posapp.autostore.scenariotests.TietU.createOrderInstoreByCash.Scenario1_1"/>
+            <!--            <class name="com.fnb.app.posapp.autostore.scenariotests.TietU.createOrderInstoreByCash.Scenario1_2"/>-->
+<!--            <class name="com.fnb.app.posapp.autostore.scenariotests.TietU.createOrderInstoreByBankTransfer.Scenario2_1"/>-->
+            <!--            <class name="com.fnb.app.posapp.autostore.scenariotests.TietU.createOrderInstoreByBankTransfer.Scenario2_2"/>-->
+        </classes>
+    </test>
+    <!--    <test name="Run test KemStore">-->
+    <!--        <parameter name="platform" value="Android"/>-->
+    <!--        <parameter name="storeName" value="KemStore"/>-->
+    <!--        <classes>-->
+    <!--            <class name="com.fnb.app.android.kemstore.scenationtests.login.LoginScenarioTest"/>-->
+    <!--            <class name="com.fnb.app.android.kemstore.scenationtests.register.RegisterScenarioTest"/>-->
+    <!--        </classes>-->
+    <!--    </test>-->
+</suite>

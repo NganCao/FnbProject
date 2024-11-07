@@ -1,0 +1,27 @@
+{
+  "name": "1234",
+  "description": "123",
+  "price": 100000,
+  "taxId": "541ba9ad-d158-4fc1-9832-08dc5ec17999",
+  "unitId": "02b2a05b-40b2-4b70-b15b-08dc4e0649f4",
+  "media": {
+    "fileName": "24042024155921",
+    "url": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/24042024155921.jpg"
+  },
+  "materials": [
+    {
+      "materialId": "5c9b1042-8022-421e-95d8-08dc62b23962",
+      "quantity": 10,
+      "unitCost": 1000
+    }
+  ],
+  "optionIds": [],
+  "image": "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/24042024155921.jpg",
+  "isTopping": false,
+  "platformIds": [
+    "6c626154-5065-616c-7466-6f7200000002",
+    "6c626154-5065-616c-7466-6f7200000004",
+    "6c626154-5065-616c-7466-6f7200000005"
+  ],
+  "productToppingIds": []
+}

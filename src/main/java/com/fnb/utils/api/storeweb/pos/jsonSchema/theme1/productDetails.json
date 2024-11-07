@@ -1,0 +1,122 @@
+{
+  "productData": {
+    "product": [
+      {
+        "name": "Chibi - auto",
+        "image": "",
+        "price": [
+          {
+            "priceName": "",
+            "priceValue": "25000",
+            "position": "0"
+          }
+        ],
+        "unit": "ly",
+        "productInventoryData": [
+          {
+            "name": "test",
+            "listProductPriceMaterials": [
+              {
+                "priceName": "",
+                "quantity": "1",
+                "material": "Đá auto"
+              }
+            ]
+          }
+        ],
+        "optionIds": [],
+        "isTopping": false,
+        "isActive": true,
+        "productCategoryName": "Automation"
+      },
+      {
+        "name": "Chibi - size",
+        "image": "",
+        "price": [
+          {
+            "priceName": "M",
+            "priceValue": "20000",
+            "position": "0"
+          },
+          {
+            "priceName": "L",
+            "priceValue": "25000",
+            "position": "1"
+          }
+        ],
+        "unit": "ly",
+        "productInventoryData": [
+          {
+            "name": "test",
+            "listProductPriceMaterials": [
+              {
+                "priceName": "",
+                "quantity": "1",
+                "material": "Đá auto"
+              }
+            ]
+          }
+        ],
+        "optionIds": [],
+        "isTopping": false,
+        "isActive": true,
+        "productCategoryName": "Automation"
+      },
+      {
+        "name": "Chibi - option",
+        "image": "",
+        "price": [
+          {
+            "priceName": "",
+            "priceValue": "20000",
+            "position": "0"
+          }
+        ],
+        "unit": "ly",
+        "productInventoryData": [
+          {
+            "name": "test",
+            "listProductPriceMaterials": [
+              {
+                "priceName": "",
+                "quantity": "1",
+                "material": "Đá auto"
+              }
+            ]
+          }
+        ],
+        "optionIds": [],
+        "isTopping": false,
+        "isActive": true,
+        "productCategoryName": "Automation"
+      },
+      {
+        "name": "Hàng không bán 1",
+        "image": "",
+        "price": [
+          {
+            "priceName": "",
+            "priceValue": "23000",
+            "position": "0"
+          }
+        ],
+        "unit": "ly",
+        "productInventoryData": [
+          {
+            "listProductPriceMaterials": [
+              {
+                "priceName": "",
+                "quantity": "1",
+                "material": "Đá auto"
+              }
+            ]
+          }
+        ],
+        "optionIds": [],
+        "isTopping": false,
+        "isActive": true,
+        "productCategoryName": "Except Automation"
+      }
+    ]
+  }
+}

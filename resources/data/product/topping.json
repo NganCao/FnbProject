@@ -1,0 +1,50 @@
+{
+  "topping": [
+    {
+      "name": "Thạch topping",
+      "image": "resources/image/toppings/thachraucau.jpg",
+      "price": "2000",
+      "platforms": [
+        {
+          "name" : "POS devices"
+        },
+        {
+          "name" : "Store Web"
+        },
+        {
+          "name" : "Store Web"
+        }
+      ],
+      "unit": "gam",
+      "productInventoryData": [
+        {
+          "quantity": "40",
+          "material": "Thạch rau câu auto"
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "image": "resources/image/toppings/cream.png",
+      "price": "10000",
+      "platforms": [
+        {
+          "name" : "POS devices"
+        },
+        {
+          "name" : "Store Web"
+        },
+        {
+          "name" : "Store App"
+        }
+      ],
+      "unit": "cái",
+      "productInventoryData": [
+        {
+          "quantity": "9999",
+          "material": "bột cafe bao dùng k hết"
+        }
+      ]
+    }
+  ]
+}

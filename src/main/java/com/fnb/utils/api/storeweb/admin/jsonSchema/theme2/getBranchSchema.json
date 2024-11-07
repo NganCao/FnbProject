@@ -1,0 +1,31 @@
+{
+    "branchesByCustomerAddress": [
+        {
+            "distance": 0.0,
+            "lat": 10.756555,
+            "lng": 106.6618178,
+            "branchAddress": "128 Đường Hồng Bàng, Phường 12,  Quận 5, Hồ Chí Minh",
+            "branchName": "Chi nhánh Hồng Bàng",
+            "branchId": "58f62f5a-14b9-44a8-2c92-08dbefbdb5f9",
+            "createdTime": "2023-11-28T02:57:08.5595033"
+        },
+        {
+            "distance": 0.0,
+            "lat": 10.800776,
+            "lng": 106.6569356,
+            "branchAddress": "21 Đường Cộng Hòa, Phường 4, Quận Tân Bình, Hồ Chí Minh",
+            "branchName": "Chi nhánh Cộng Hòa",
+            "branchId": "64734ec4-17fc-4373-df35-08dbffaba35d",
+            "createdTime": "2023-12-18T09:28:04.8548366"
+        },
+        {
+            "distance": 0.0,
+            "lat": 10.7658143,
+            "lng": 106.659488,
+            "branchAddress": "32 Lý Thường Kiệt, Phường 14,  Quận 10, Hồ Chí Minh",
+            "branchName": "Chi nhánh Lý Thường Kiệt",
+            "branchId": "36a8d920-a902-442a-feec-08dbffa46ab1",
+            "createdTime": "2023-12-18T08:36:23.4152235"
+        }
+    ]
+}

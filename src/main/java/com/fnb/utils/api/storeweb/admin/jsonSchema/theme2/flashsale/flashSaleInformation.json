@@ -1,0 +1,587 @@
+{
+  "createFlashSale" : {
+    "body" : {
+      "flashSale" : {
+        "name" : "FLASH SALE AUTO 46072",
+        "termsAndCondition" : "Create automation scripts",
+        "startDate" : "2024-06-27 04:18:00",
+        "startTime" : "2024-06-27T04:18:00.000Z",
+        "endTime" : "2024-06-27T04:38:00.000Z",
+        "products" : [ {
+          "flashSalePrice" : 8056,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        }, {
+          "flashSalePrice" : 9675,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        }, {
+          "flashSalePrice" : 5733,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        }, {
+          "flashSalePrice" : 10312,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        } ],
+        "endDate" : "2024-06-27 04:38:00",
+        "isMinimumPurchaseAmount" : false,
+        "isIncludedTopping" : true,
+        "flashSaleProducts" : [ {
+          "id" : "756be658-376c-44d7-dc89-08dc4c7fdcd0",
+          "name" : "Vịt thơm - only topping",
+          "price" : 21000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 21000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105820.jpg",
+          "flashSalePrice" : 8056,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        }, {
+          "id" : "6251c02f-6e0c-4883-8dd7-08dc4c7ff7c9",
+          "name" : "Vịt thơm - only size",
+          "price" : 25000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 25000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "M",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105934.jpg",
+          "flashSalePrice" : 9675,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        }, {
+          "id" : "b405daec-dd89-472a-a0c6-08dc4c810390",
+          "name" : "Vịt thơm - topping size",
+          "price" : 22200,
+          "priceFormat" : {
+            "props" : {
+              "value" : 22200,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "M",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110619.jpg",
+          "flashSalePrice" : 5733,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        }, {
+          "id" : "10d8bd52-3f78-42c5-4886-08dc4c8135c5",
+          "name" : "Vịt thơm - all",
+          "price" : 31000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 31000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "M",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110739.jpg",
+          "flashSalePrice" : 10312,
+          "flashSaleQuantity" : 15,
+          "maximumLimit" : 10
+        } ],
+        "id" : "a22ae780-da91-44ec-b9a0-08dc224af5bb",
+        "minimumPurchaseAmount" : 1000000
+      }
+    }
+  },
+  "editFlashSale" : {
+    "body" : {
+      "flashSale" : {
+        "name" : "FLASH SALE AUTO 47041",
+        "termsAndCondition" : "Create automation scripts",
+        "startDate" : "2024-06-27 04:03:00",
+        "startTime" : "2024-06-27T04:03:00.000Z",
+        "endTime" : "2024-06-27T04:04:00.000Z",
+        "isMinimumPurchaseAmount" : false,
+        "isSpecificBranch" : false,
+        "isIncludedTopping" : false,
+        "products" : [ {
+          "flashSalePrice" : 5078,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        }, {
+          "flashSalePrice" : 12765,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        }, {
+          "flashSalePrice" : 2300,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        }, {
+          "flashSalePrice" : 10460,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        } ],
+        "endDate" : "2024-06-27 04:04:00",
+        "flashSaleProducts" : [ {
+          "id" : "756be658-376c-44d7-dc89-08dc4c7fdcd0",
+          "name" : "Vịt thơm - only topping",
+          "price" : 21000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 21000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105820.jpg",
+          "flashSalePrice" : 5078,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        }, {
+          "id" : "6251c02f-6e0c-4883-8dd7-08dc4c7ff7c9",
+          "name" : "Vịt thơm - only size",
+          "price" : 25000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 25000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "M",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105934.jpg",
+          "flashSalePrice" : 12765,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        }, {
+          "id" : "b405daec-dd89-472a-a0c6-08dc4c810390",
+          "name" : "Vịt thơm - topping size",
+          "price" : 22200,
+          "priceFormat" : {
+            "props" : {
+              "value" : 22200,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "M",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110619.jpg",
+          "flashSalePrice" : 2300,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        }, {
+          "id" : "10d8bd52-3f78-42c5-4886-08dc4c8135c5",
+          "name" : "Vịt thơm - all",
+          "price" : 31000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 31000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "M",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110739.jpg",
+          "flashSalePrice" : 10460,
+          "flashSaleQuantity" : 10,
+          "maximumLimit" : 2
+        } ],
+        "id" : "aaf40b21-8f76-4c9a-8094-08dc965d86df"
+      }
+    }
+  },
+  "createFlashSaleSpecialBranch" : {
+    "body" : {
+      "flashSale" : {
+        "name" : "FLASH SALE AUTO 29852",
+        "startDate" : "2024-06-27 04:06:00",
+        "startTime" : "2024-06-27T04:06:00.000Z",
+        "endTime" : "2024-06-27T04:26:00.000Z",
+        "products" : [ {
+          "flashSalePrice" : 15743,
+          "flashSaleQuantity" : 8,
+          "maximumLimit" : 6
+        }, {
+          "flashSalePrice" : 6429,
+          "flashSaleQuantity" : 4,
+          "maximumLimit" : 4
+        }, {
+          "flashSalePrice" : 27887,
+          "flashSaleQuantity" : 17,
+          "maximumLimit" : 4
+        } ],
+        "branchIds" : [ "de670488-c1e3-481f-0384-08dc5d2e2276" ],
+        "endDate" : "2024-06-27 04:26:00",
+        "isMinimumPurchaseAmount" : false,
+        "isIncludedTopping" : false,
+        "flashSaleProducts" : [ {
+          "id" : "132234d3-0ab1-47ed-fba6-08dc4c7fb4db",
+          "name" : "Vịt thơm - auto",
+          "price" : 20000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 20000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "isSinglePrice" : true,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105717.jpg",
+          "flashSalePrice" : 15743,
+          "flashSaleQuantity" : 8,
+          "maximumLimit" : 6
+        }, {
+          "id" : "756be658-376c-44d7-dc89-08dc4c7fdcd0",
+          "name" : "Vịt thơm - only topping",
+          "price" : 21000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 21000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "isSinglePrice" : true,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105820.jpg",
+          "flashSalePrice" : 6429,
+          "flashSaleQuantity" : 4,
+          "maximumLimit" : 4
+        }, {
+          "id" : "62c6b9fa-ce39-4acd-ffa8-08dc4c8157fb",
+          "name" : "Vịt thơm - CN Cộng Hòa",
+          "price" : 54999,
+          "priceFormat" : {
+            "props" : {
+              "value" : 54999,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "isSinglePrice" : true,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024110844.jpg",
+          "flashSalePrice" : 27887,
+          "flashSaleQuantity" : 17,
+          "maximumLimit" : 4
+        } ]
+      }
+    }
+  },
+  "createFlashSaleToCheckCart" : {
+    "body" : {
+      "flashSale" : {
+        "name" : "FS AUTO 71537",
+        "termsAndCondition" : "Create automation scripts",
+        "startDate" : "2024-03-04 08:17:00",
+        "startTime" : "2024-03-04T08:17:00.000Z",
+        "endTime" : "2024-03-04T08:37:00.000Z",
+        "products" : [ {
+          "flashSalePrice" : 197101,
+          "flashSaleQuantity" : 1,
+          "maximumLimit" : 1
+        }, {
+          "flashSalePrice" : 167877,
+          "flashSaleQuantity" : 4,
+          "maximumLimit" : 1
+        }, {
+          "flashSalePrice" : 39734,
+          "flashSaleQuantity" : 17,
+          "maximumLimit" : 4
+        } ],
+        "endDate" : "2024-03-04 08:37:00",
+        "isMinimumPurchaseAmount" : false,
+        "isIncludedTopping" : false,
+        "flashSaleProducts" : [ {
+          "id" : "c0fd1eef-adcc-42f0-fafa-08dc1caef422",
+          "name" : "Vịt thơm - auto",
+          "price" : 656123,
+          "priceFormat" : {
+            "props" : {
+              "value" : 656123,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "isSinglePrice" : true,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/24012024143428.jpg",
+          "flashSalePrice" : 197101,
+          "flashSaleQuantity" : 1,
+          "maximumLimit" : 1
+        }, {
+          "id" : "71962cd9-206e-41b2-92bc-08dc2217e46e",
+          "name" : "Vịt thơm - topping",
+          "price" : 350000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 350000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "isSinglePrice" : true,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/31012024114812.jpg",
+          "flashSalePrice" : 167877,
+          "flashSaleQuantity" : 4,
+          "maximumLimit" : 1
+        }, {
+          "id" : "b8dee8af-6ada-4efb-4b19-08dc22164687",
+          "name" : "Vịt thơm - size",
+          "price" : 55000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 55000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "M",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/31012024113548.jpg",
+          "flashSalePrice" : 39734,
+          "flashSaleQuantity" : 17,
+          "maximumLimit" : 4
+        } ]
+      }
+    }
+  },
+  "createFlashSaleMinimumPurchase" : {
+    "body" : {
+      "flashSale" : {
+        "name" : "FLASH SALE AUTO 69436",
+        "termsAndCondition" : "Create automation scripts",
+        "startDate" : "2024-06-27 03:04:00",
+        "startTime" : "2024-06-27T03:04:00.000Z",
+        "endTime" : "2024-06-27T04:04:00.000Z",
+        "products" : [ {
+          "flashSalePrice" : 3377,
+          "flashSaleQuantity" : 20,
+          "maximumLimit" : 15
+        }, {
+          "flashSalePrice" : 8053,
+          "flashSaleQuantity" : 20,
+          "maximumLimit" : 15
+        }, {
+          "flashSalePrice" : 12855,
+          "flashSaleQuantity" : 20,
+          "maximumLimit" : 15
+        } ],
+        "endDate" : "2024-06-27 04:04:00",
+        "isMinimumPurchaseAmount" : true,
+        "isIncludedTopping" : false,
+        "flashSaleProducts" : [ {
+          "id" : "132234d3-0ab1-47ed-fba6-08dc4c7fb4db",
+          "name" : "Vịt thơm - auto",
+          "price" : 20000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 20000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "isSinglePrice" : true,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105717.jpg",
+          "flashSalePrice" : 3377,
+          "flashSaleQuantity" : 20,
+          "maximumLimit" : 15
+        }, {
+          "id" : "756be658-376c-44d7-dc89-08dc4c7fdcd0",
+          "name" : "Vịt thơm - only topping",
+          "price" : 21000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 21000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "isSinglePrice" : true,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105820.jpg",
+          "flashSalePrice" : 8053,
+          "flashSaleQuantity" : 20,
+          "maximumLimit" : 15
+        }, {
+          "id" : "c903db10-432c-4e97-8e0a-08dc4c7ff7c9",
+          "name" : "Vịt thơm - only size",
+          "price" : 30000,
+          "priceFormat" : {
+            "props" : {
+              "value" : 30000,
+              "displayType" : "text",
+              "thousandSeparator" : true,
+              "decimalScale" : 2,
+              "decimalSeparator" : ".",
+              "thousandSpacing" : "3",
+              "fixedDecimalScale" : false,
+              "prefix" : "",
+              "suffix" : "",
+              "allowNegative" : true,
+              "isNumericString" : false,
+              "type" : "text"
+            }
+          },
+          "productPriceName" : "L",
+          "isSinglePrice" : false,
+          "thumbnail" : "https://s3-sgn09.fptcloud.com/gofnb-stag/stagimages/25032024105934.jpg",
+          "flashSalePrice" : 12855,
+          "flashSaleQuantity" : 20,
+          "maximumLimit" : 15
+        } ],
+        "id" : "a22ae780-da91-44ec-b9a0-08dc224af5bb",
+        "minimumPurchaseAmount" : 250000
+      }
+    }
+  }
+}

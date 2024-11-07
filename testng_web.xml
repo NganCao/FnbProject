@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite for Web platform">
+    <listeners>
+        <listener class-name="com.fnb.utils.helpers.HelperListener"></listener>
+    </listeners>
+    <!--    <test name="test for admin" parallel="classes" thread-count="4">-->
+    <!--        <parameter name="platform" value="admin"/>-->
+    <!--        <classes>-->
+    <!--            &lt;!&ndash;Sprint48&ndash;&gt;-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.login.LoginScenarioTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.register.RegisterScenarioTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.packages.PackageTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.product.CreateProductTest"/>-->
+    <!--            &lt;!&ndash;Sprint49&ndash;&gt;-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.product.ProductManagementFilterTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.product.ActiveDeactivateProductTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.product.DeleteProductTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.product.EditProductTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.product.TaxonProductTest"/>-->
+    <!--            &lt;!&ndash;Sprint51&ndash;&gt;-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.inventory.create.CreateMaterialGeneralInformationTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.inventory.create.CreateMaterialPriceTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.inventory.MaterialManagementFilterTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.inventory.MaterialManagementListTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.product.ProductManagementListTest"/>-->
+    <!--            &lt;!&ndash;Sprint52&ndash;&gt;-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.permissions.ProductPermissionsTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.permissions.MaterialPermissionsTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.permissions.ReportPermissionsTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.permissions.InventoryHistoryPermissionTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.permissions.CategoryPermissionsTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.permissions.SupplierPermissionsTest"/>-->
+    <!--            <class name="com.fnb.web.admin.scenario_test.permissions.PurchaseOrderManagementTest"/>-->
+    <!--        </classes>-->
+    <!--    </test>-->
+    <!--    <test name="test for pos" parallel="classes" thread-count="2">-->
+    <!--        <parameter name="platform" value="pos"/>-->
+    <!--        <classes>-->
+    <!--            <class name="com.fnb.web.pos.scenario_test.login.LoginPosScenarioTest"/>-->
+    <!--            <class name="com.fnb.web.pos.scenario_test.register.RegisterPosScenarioTest"/>-->
+    <!--            <class name="com.fnb.web.pos.scenario_test.integration.CreateProductTest"/>-->
+    <!--        </classes>-->
+    <!--    </test>-->
+    <test name="test for store web - THEME 1">
+        <parameter name="platform" value="store"/>
+        <parameter name="theme" value="theme1"/>
+        <classes>
+            <class name="com.fnb.web.store.theme1.scenario_test.login.LoginScenarioTest"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.login.CheckoutLoginScenarioTest"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.home.header.HeaderScenarios"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.addUserLocation.AddUserLocationScenarios"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.home.banner.BannerScenarios"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.home.category.CategoryScenarios"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.home.bestSellingProduct.BestsellingProductScenarios"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.home.signatureProduct.SignatureProductScenarios"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.home.footer.FooterScenarios"/>
+            <class name="com.fnb.web.store.theme1.scenario_test.home.flashsale.FlashSaleScenarios"/>
+        </classes>
+    </test>
+    <test name="test for store web - THEME 2">
+        <parameter name="theme" value="theme2"/>
+        <parameter name="platform" value="store"/>
+        <classes>
+            <class name="com.fnb.web.store.theme2.scenario_test.login.LoginScenarioTest"/>
+            <class name="com.fnb.web.store.theme2.scenario_test.login.CheckoutLoginScenarioTest"/>
+            <class name="com.fnb.web.store.theme2.scenario_test.addUserLocation.AddUserLocationScenarios"/>
+            <class name="com.fnb.web.store.theme2.scenario_test.flashsale.FlashSaleScenarios"/>
+        </classes>
+    </test>
+</suite>
